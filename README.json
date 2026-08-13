@@ -1,0 +1,1100 @@
+{
+  "items": [
+    {
+      "description": "Translating users' natural language queries (NL) into SQL queries can significantly reduce barriers to accessing relational databases and support various commercial applications. The performance of Text-to-SQL has been greatly improved with the emergence of language models (LMs). In this context, it is crucial to assess our current position, determine the Text-to-SQL solutions that should be adopted for specific scenarios by practitioners, and identify the research topics that researchers should explore next.",
+      "items": [],
+      "title": "🧭 Text-to-SQL Introduction"
+    },
+    {
+      "description": "We categorize the challenges of Text-to-SQL into five levels, each addressing specific hurdles. The first three levels cover challenges that have been or are currently being addressed, reflecting the progressive development of Text-to-SQL. The fourth level represents the challenges we aim to tackle in the LLMs stage, while the fifth level outlines our vision for Text-to-SQL system in the next five years.\nWe describe the evolution of Text-to-SQL solutions from the perspective of language models, categorizing it into four stages. For each stage of Text-to-SQL, we analyze the changes in target users and the extent to which challenges are addressed.",
+      "items": [],
+      "title": "🤔 Where Are We?"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DB-GPT: Empowering Database Interactions with Private Large Language Models.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T09:31:45Z",
+            "owner": "eosphoros-ai",
+            "repo": "DB-GPT",
+            "stars": 19714
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graphix-T5: Mixing Pre-trained Transformers with Graph-Aware Layers for Text-to-SQL Parsing.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-10T11:18:20Z",
+            "owner": "AlibabaResearch",
+            "repo": "DAMO-ConvAI",
+            "stars": 1575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-12T13:01:36Z",
+            "owner": "xlang-ai",
+            "repo": "Spider2",
+            "stars": 852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Text2SQL is Not Enough: Unifying AI and Databases with TAG.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-25T20:13:10Z",
+            "owner": "TAG-Research",
+            "repo": "TAG-Bench",
+            "stars": 764
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Text-to-SQL Empowered by Large Language Models: A Benchmark Evaluation.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-07T03:42:22Z",
+            "owner": "BeachWang",
+            "repo": "DAIL-SQL",
+            "stars": 640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OmniSQL: Synthesizing High-quality Text-to-SQL Data at Scale.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-08T11:09:09Z",
+            "owner": "RUCKBReasoning",
+            "repo": "OmniSQL",
+            "stars": 452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OmniSQL: Synthesizing High-quality Text-to-SQL Data at Scale.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-08T11:09:09Z",
+            "owner": "RUCKBReasoning",
+            "repo": "OmniSQL",
+            "stars": 452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DIN-SQL: Decomposed In-Context Learning of Text-to-SQL with Self-Correction.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-30T13:41:47Z",
+            "owner": "MohammadrezaPourreza",
+            "repo": "Few-shot-NL2SQL-with-prompting",
+            "stars": 420
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MAC-SQL: A Multi-Agent Collaborative Framework for Text-to-SQL.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-27T04:02:02Z",
+            "owner": "wbbeyourself",
+            "repo": "MAC-SQL",
+            "stars": 345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arctic-Text2SQL-R1: Simple Rewards, Strong Reasoning in Text-to-SQL.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-26T20:32:27Z",
+            "owner": "snowflakedb",
+            "repo": "ArcticTraining",
+            "stars": 288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RESDSQL: Decoupling Schema Linking and Skeleton Parsing for Text-to-SQL.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-13T02:45:33Z",
+            "owner": "RUCKBReasoning",
+            "repo": "RESDSQL",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CHESS: Contextual Harnessing for Efficient SQL Synthesis.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-26T21:26:00Z",
+            "owner": "ShayanTalaei",
+            "repo": "CHESS",
+            "stars": 279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeS: Towards Building Open-source Language Models for Text-to-SQL.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-20T06:47:14Z",
+            "owner": "RUCKBReasoning",
+            "repo": "codes",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C3: Zero-shot Text-to-SQL with ChatGPT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-06T07:14:25Z",
+            "owner": "bigbigwatermalon",
+            "repo": "C3SQL",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSearch-SQL: Enhancing Text-to-SQL with Dynamic Few-shot and Consistency Alignment.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-30T02:41:51Z",
+            "owner": "OpenSearch-AI",
+            "repo": "OpenSearch-SQL",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TrustSQL: Benchmarking Text-to-SQL Reliability with Penalty-Based Scoring.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-17T03:09:23Z",
+            "owner": "Laqcce-cao",
+            "repo": "RSL-SQL",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MARS-SQL: A MULTI-AGENT REINFORCEMENT LEARNING FRAMEWORK FOR TEXT-TO-SQL.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T12:15:32Z",
+            "owner": "YangHaolin0526",
+            "repo": "MARS-SQL",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Dawn of Natural Language to SQL: Are We Fully Ready?",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-02T04:07:45Z",
+            "owner": "HKUSTDial",
+            "repo": "NL2SQL360",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Dawn of Natural Language to SQL: Are We Fully Ready?",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-02T04:07:45Z",
+            "owner": "HKUSTDial",
+            "repo": "NL2SQL360",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DBCopilot: Scaling Natural Language Querying to Massive Databases.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-25T08:54:57Z",
+            "owner": "tshu-w",
+            "repo": "DBCopilot",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Utilising Large Language Models for Adversarial Attacks in Text-to-SQL: A Perpetrator and Victim Approach.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-11T09:42:37Z",
+            "owner": "XGenerationLab",
+            "repo": "XiYan-DBDescGen",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Automatic database description generation for Text-to-SQL.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-11T09:42:37Z",
+            "owner": "XGenerationLab",
+            "repo": "XiYan-DBDescGen",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Synthesizing Text-to-SQL Data from Weak and Strong LLMs.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-06T13:21:53Z",
+            "owner": "Yangjiaxi",
+            "repo": "Sense",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSC-SQL: Corrective Self-Consistency in Text-to-SQL via Reinforcement Learning.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-12T13:19:36Z",
+            "owner": "CycloneBoy",
+            "repo": "csc_sql",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Corrective Self-Consistency in Text-to-SQL via Reinforcement Learning.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-12T13:19:36Z",
+            "owner": "CycloneBoy",
+            "repo": "csc_sql",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "E-SQL: Direct Schema Linking via Question Enrichment in Text-to-SQL.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-07T16:17:55Z",
+            "owner": "HasanAlpCaferoglu",
+            "repo": "E-SQL",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FinSQL: Model-Agnostic LLMs-based Text-to-SQL Framework for Financial Analysis.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-08T02:10:51Z",
+            "owner": "bigbigwatermalon",
+            "repo": "FinSQL",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Text2SQL-Flow: A Robust SQL-Aware Data Augmentation Framework for Text-to-SQL.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-25T05:59:28Z",
+            "owner": "TechNomad-ds",
+            "repo": "Text2SQL-Flow",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SLM-SQL: An Exploration of Small Language Models for Text-to-SQL.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-12T13:18:34Z",
+            "owner": "CycloneBoy",
+            "repo": "slm_sql",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reward-SQL: Boosting Text-to-SQL via Stepwise Reasoning and Process-Supervised Rewards.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-26T10:31:19Z",
+            "owner": "ruc-datalab",
+            "repo": "RewardSQL",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Interleaving Pre-Trained Language Models and Large Language Models for Zero-Shot NL2SQL Generation.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-28T03:11:47Z",
+            "owner": "ruc-datalab",
+            "repo": "ZeroNL2SQL",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PET-SQL: A Prompt-Enhanced Two-Round Refinement of Text-to-SQL with Cross-consistency.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-28T03:11:47Z",
+            "owner": "ruc-datalab",
+            "repo": "ZeroNL2SQL",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "METASQL: A Generate-then-Rank Framework for Natural Language to SQL Translation.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-09T02:33:52Z",
+            "owner": "Kaimary",
+            "repo": "MetaSQL",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLMorph: Query Mutation and Fine-Grained Metrics for Text-to-SQL Evaluation.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-25T10:05:46Z",
+            "owner": "dais-polymtl",
+            "repo": "sqlmorph",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ACT-SQL: In-Context Learning for Text-to-SQL with Automatically-Generated Chain-of-Thought.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-11T07:09:39Z",
+            "owner": "X-LANCE",
+            "repo": "text2sql-GPT",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Understanding the Effects of Noise in Text-to-SQL: An Examination of the BIRD-Bench Benchmark.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-14T11:01:03Z",
+            "owner": "niklaswretblad",
+            "repo": "the-effects-of-noise-in-text-to-SQL",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grounding Natural Language to SQL Translation with Data-Based Self-Explanations.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-24T01:43:50Z",
+            "owner": "Kaimary",
+            "repo": "CycleSQL",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grounding Natural Language to SQL Translation with Data-Based Self-Explanations.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-24T01:43:50Z",
+            "owner": "Kaimary",
+            "repo": "CycleSQL",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pervasive Annotation Errors Break Text-to-SQL Benchmarks and Leaderboards.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-08T02:54:23Z",
+            "owner": "uiuc-kang-lab",
+            "repo": "text_to_sql_benchmarks",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CatSQL: Towards Real World Natural Language to SQL Applications.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-02-18T05:03:19Z",
+            "owner": "asfuhan",
+            "repo": "CatSQL",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cheaper, Better, Faster, Stronger: Robust Text-to-SQL without Chain-of-Thought or Fine-Tuning.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-11T02:10:40Z",
+            "owner": "genaasia",
+            "repo": "N-rep",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoE-SQL: In-Context Learning for Multi-Turn Text-to-SQL with Chain-of-Editions.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-07T13:00:31Z",
+            "owner": "X-LANCE",
+            "repo": "text2sql-multiturn-GPT",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Few-shot Text-to-SQL Translation using Structure and Content Prompt Learning.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-13T05:19:58Z",
+            "owner": "ruc-datalab",
+            "repo": "SC-prompt",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Improving Generalization in Language Model-based Text-to-SQL Semantic Parsing: Two Simple Semantic Boundary-based Techniques.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-17T15:38:20Z",
+            "owner": "Dakingrai",
+            "repo": "ood-generalization-semantic-boundary-techniques",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Know What I don’t Know: Handling Ambiguous and Unknown Questions for Text-to-SQL.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-06T06:16:54Z",
+            "owner": "wbbeyourself",
+            "repo": "DTE",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hexgen-Flow: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-22T06:02:54Z",
+            "owner": "Relaxed-System-Lab",
+            "repo": "Hexgen-Flow",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PTD-SQL: Partitioning and Targeted Drilling with LLMs in Text-to-SQL.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-01T02:25:57Z",
+            "owner": "lrlbbzl",
+            "repo": "PTD-SQL",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Selective Demonstrations for Cross-domain Text-to-SQL.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-10T20:15:57Z",
+            "owner": "shuaichenchang",
+            "repo": "ODIS-Text-to-SQL",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beyond Static Pipelines: Learning Dynamic Workflows for Text-to-SQL.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-23T13:23:15Z",
+            "owner": "Satissss",
+            "repo": "SquRL",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sphinteract: Resolving Ambiguities in NL2SQL Through User Interaction.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-02T00:00:49Z",
+            "owner": "ZhaoFuheng",
+            "repo": "Sphinteract",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generating Succinct Descriptions of Database Schemata for Cost-Efficient Prompting of Large Language Models.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-31T19:25:35Z",
+            "owner": "itrummer",
+            "repo": "schemacompression",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLformer: Deep Auto-Regressive Query Graph Generation for Text-to-SQL Translation.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-14T23:09:40Z",
+            "owner": "AdrianBZG",
+            "repo": "SQLformer",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SchemaRAG: A Schema-aware Retrieval-Augmented Generation Framework for Text-to-SQL",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-14T11:05:30Z",
+            "owner": "chelsea2002",
+            "repo": "SchemaRAG",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LEAF-SQL: Level-wise Exploration with Adaptive Fine-graining for Text-to-SQL Skeleton Prediction.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-15T01:33:31Z",
+            "owner": "Atlamtiz",
+            "repo": "LEAF-SQL",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An Efficient and Effective Evaluator for Text2SQL Models on Unseen and Unlabeled Data.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-31T17:39:00Z",
+            "owner": "phkhanhtrinh23",
+            "repo": "FusionSQL",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Knapsack Optimization-based Schema Linking for LLM-based Text-to-SQL Generation.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-23T12:58:59Z",
+            "owner": "DEEP-PolyU",
+            "repo": "KaSLA",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Power of Constraints in Natural Language to SQL Translation.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-05T08:11:30Z",
+            "owner": "httdty",
+            "repo": "REDSQL_VLDB",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PURPLE: Making a Large Language Model a Better SQL Writer.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-07T14:53:15Z",
+            "owner": "httdty",
+            "repo": "purple",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DIVER: A Robust Text-to-SQL System with Dynamic Interactive Value Linking and Evidence Reasoning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-07T09:18:02Z",
+            "owner": "thatmee",
+            "repo": "DIVER",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "I Need Help! Evaluating LLM’s Ability to Ask for Users’ Support: A Case Study on Text-to-SQL Generation.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-30T08:12:05Z",
+            "owner": "appier-research",
+            "repo": "i-need-help",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Comparison and Analysis of Value Linking in Text-to-SQL systems: [Experiments & Analysis]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-10T15:14:53Z",
+            "owner": "athenarc",
+            "repo": "experimental-analysis-of-value-linking",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OptiSQL: Executable SQL Generation from Optical Tokens.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-11T11:18:55Z",
+            "owner": "johnnyZeppelin",
+            "repo": "OptiSQL",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EVOSCHEMA: TOWARDS TEXT-TO-SQL ROBUSTNESS AGAINST SCHEMA EVOLUTION.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-04-01T23:39:33Z",
+            "owner": "zhangtianshu",
+            "repo": "EvoSchema",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RSL-SQL: Robust Schema Linking in Text-to-SQL Generation.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-14T19:27:42Z",
+            "owner": "glee4810",
+            "repo": "TrustSQL",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Is Long Context All You Need? Leveraging LLM's Extended Context for NL2SQL.",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Rethinking Text-to-SOL: Dynamic Multi-turn SOIInteraction for Real-world Database Exploration.",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "📰 Text-to-SQL Paper List"
+    },
+    {
+      "description": "We create a timeline of the benchmark's development and mark relevant milestones. You can get more details from this chapter: 📊 Benchmark",
+      "items": [],
+      "title": "📊 Text-to-SQL Benchmark"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "💾 Practical Guide for Novice"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LLaMA-Factory Repository Link",
+          "description": "Unified Efficient Fine-Tuning of 100+ LLMs. Integrating various models with scalable training resources, advanced algorithms, practical tricks, and comprehensive experiment monitoring tools, this setup enables efficient and faster inference through optimized APIs and UIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T03:20:42Z",
+            "owner": "hiyouga",
+            "repo": "LlamaFactory",
+            "stars": 74057
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Litgpt Repository Link",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T10:24:12Z",
+            "owner": "Lightning-AI",
+            "repo": "litgpt",
+            "stars": 13613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fine-tuning and In-Context learning for BIRD-SQL benchmark Repository Link",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-10T11:18:20Z",
+            "owner": "AlibabaResearch",
+            "repo": "DAMO-ConvAI",
+            "stars": 1575
+          }
+        }
+      ],
+      "title": "🛠️ How to build an LLM-based Text-to-SQL model:"
+    },
+    {
+      "description": "We collect NL2SQL evaluation metrics for you. You can get more details from this chapter: Evaluation",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BIRD-SQL-Official Repository Link",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-10T11:18:20Z",
+            "owner": "AlibabaResearch",
+            "repo": "DAMO-ConvAI",
+            "stars": 1575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Test-suite-sql-eval Repository Link",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-05T12:16:42Z",
+            "owner": "taoyds",
+            "repo": "test-suite-sql-eval",
+            "stars": 322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NLSQL360 Repository Link",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-02T04:07:45Z",
+            "owner": "HKUSTDial",
+            "repo": "NL2SQL360",
+            "stars": 140
+          }
+        }
+      ],
+      "title": "🔎How to evaluate your model:"
+    },
+    {
+      "description": "You can get some inspiration from the Roadmap and Decision Flow.",
+      "items": [],
+      "title": "🗺️ Roadmap and Decision Flow"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Chat2DB: AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T03:51:27Z",
+            "owner": "OtterMind",
+            "repo": "Chat2DB",
+            "stars": 27951
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DB-GPT: AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T09:31:45Z",
+            "owner": "eosphoros-ai",
+            "repo": "DB-GPT",
+            "stars": 19714
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Postgres.new: In-browser Postgres sandbox with AI assistance.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-03T20:01:40Z",
+            "owner": "supabase-community",
+            "repo": "database-build",
+            "stars": 2952
+          }
+        }
+      ],
+      "title": "📱 Text-to-SQL Related Applications:"
+    },
+    {
+      "description": "Please feel free to contact us if we missed any interesting work.\n📧 xliu371[at]connect.hkust-gz.edu.cn",
+      "items": [],
+      "title": "📮Connect with Us"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T10:20:05.417Z",
+    "original_repository": "HKUSTDial/NL2SQL_Handbook",
+    "original_repository_sha": "c78ca04744714acb02ffed93d7278166b8c190df",
+    "enhanced_repository": "enhansome/enhansome-NL2SQL_Handbook",
+    "enhanced_repository_description": null,
+    "title": "Awesome NL2SQL Handbook with stars"
+  }
+}
