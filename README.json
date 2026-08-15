@@ -24,7 +24,7 @@
             "last_commit": "2026-08-14T02:00:10Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19727
+            "stars": 19730
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2024-11-20T06:47:14Z",
             "owner": "RUCKBReasoning",
             "repo": "codes",
-            "stars": 200
+            "stars": 199
           }
         },
         {
@@ -235,20 +235,6 @@
             "owner": "Laqcce-cao",
             "repo": "RSL-SQL",
             "stars": 160
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MARS-SQL: A MULTI-AGENT REINFORCEMENT LEARNING FRAMEWORK FOR TEXT-TO-SQL.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T12:15:32Z",
-            "owner": "YangHaolin0526",
-            "repo": "MARS-SQL",
-            "stars": 150
           }
         },
         {
@@ -319,6 +305,20 @@
             "owner": "XGenerationLab",
             "repo": "XiYan-DBDescGen",
             "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MARS-SQL: A MULTI-AGENT REINFORCEMENT LEARNING FRAMEWORK FOR TEXT-TO-SQL.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T12:15:32Z",
+            "owner": "YangHaolin0526",
+            "repo": "MARS-SQL",
+            "stars": 88
           }
         },
         {
@@ -948,7 +948,7 @@
             "last_commit": "2026-08-13T12:45:56Z",
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 74090
+            "stars": 74108
           }
         },
         {
@@ -1049,7 +1049,7 @@
             "last_commit": "2026-08-14T10:09:11Z",
             "owner": "OtterMind",
             "repo": "Chat2DB",
-            "stars": 27951
+            "stars": 27960
           }
         },
         {
@@ -1063,7 +1063,7 @@
             "last_commit": "2026-08-14T02:00:10Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19727
+            "stars": 19730
           }
         },
         {
@@ -1090,7 +1090,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:14:40.017Z",
+    "last_updated": "2026-08-15T09:36:28.964Z",
     "original_repository": "HKUSTDial/NL2SQL_Handbook",
     "original_repository_sha": "c78ca04744714acb02ffed93d7278166b8c190df",
     "enhanced_repository": "enhansome/enhansome-NL2SQL_Handbook",
