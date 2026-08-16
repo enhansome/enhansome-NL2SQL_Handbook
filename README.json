@@ -24,7 +24,7 @@
             "last_commit": "2026-08-14T02:00:10Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19730
+            "stars": 19732
           }
         },
         {
@@ -52,7 +52,7 @@
             "last_commit": "2026-08-12T13:01:36Z",
             "owner": "xlang-ai",
             "repo": "Spider2",
-            "stars": 852
+            "stars": 853
           }
         },
         {
@@ -948,7 +948,7 @@
             "last_commit": "2026-08-13T12:45:56Z",
             "owner": "hiyouga",
             "repo": "LlamaFactory",
-            "stars": 74108
+            "stars": 74137
           }
         },
         {
@@ -1049,7 +1049,7 @@
             "last_commit": "2026-08-14T10:09:11Z",
             "owner": "OtterMind",
             "repo": "Chat2DB",
-            "stars": 27960
+            "stars": 27943
           }
         },
         {
@@ -1063,7 +1063,7 @@
             "last_commit": "2026-08-14T02:00:10Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19730
+            "stars": 19732
           }
         },
         {
@@ -1077,7 +1077,7 @@
             "last_commit": "2026-06-03T20:01:40Z",
             "owner": "supabase-community",
             "repo": "database-build",
-            "stars": 2952
+            "stars": 2951
           }
         }
       ],
@@ -1090,7 +1090,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T09:36:28.964Z",
+    "last_updated": "2026-08-16T09:37:26.053Z",
     "original_repository": "HKUSTDial/NL2SQL_Handbook",
     "original_repository_sha": "c78ca04744714acb02ffed93d7278166b8c190df",
     "enhanced_repository": "enhansome/enhansome-NL2SQL_Handbook",
