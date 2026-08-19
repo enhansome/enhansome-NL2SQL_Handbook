@@ -1,17 +1,7 @@
 {
   "items": [
     {
-      "description": "Translating users' natural language queries (NL) into SQL queries can significantly reduce barriers to accessing relational databases and support various commercial applications. The performance of Text-to-SQL has been greatly improved with the emergence of language models (LMs). In this context, it is crucial to assess our current position, determine the Text-to-SQL solutions that should be adopted for specific scenarios by practitioners, and identify the research topics that researchers should explore next.",
-      "items": [],
-      "title": "🧭 Text-to-SQL Introduction"
-    },
-    {
-      "description": "We categorize the challenges of Text-to-SQL into five levels, each addressing specific hurdles. The first three levels cover challenges that have been or are currently being addressed, reflecting the progressive development of Text-to-SQL. The fourth level represents the challenges we aim to tackle in the LLMs stage, while the fifth level outlines our vision for Text-to-SQL system in the next five years.\nWe describe the evolution of Text-to-SQL solutions from the perspective of language models, categorizing it into four stages. For each stage of Text-to-SQL, we analyze the changes in target users and the extent to which challenges are addressed.",
-      "items": [],
-      "title": "🤔 Where Are We?"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -20,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 627480054,
             "language": "Python",
-            "last_commit": "2026-08-17T12:25:25Z",
+            "last_commit": "2026-08-19T09:18:30Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19742
+            "stars": 19754
           }
         },
         {
@@ -34,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 514217147,
             "language": "Python",
             "last_commit": "2026-06-10T11:18:20Z",
             "owner": "AlibabaResearch",
@@ -48,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 845868425,
             "language": "HTML",
             "last_commit": "2026-08-12T13:01:36Z",
             "owner": "xlang-ai",
             "repo": "Spider2",
-            "stars": 854
+            "stars": 855
           }
         },
         {
@@ -62,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 847546926,
             "language": "Python",
             "last_commit": "2026-07-25T20:13:10Z",
             "owner": "TAG-Research",
             "repo": "TAG-Bench",
-            "stars": 764
+            "stars": 765
           }
         },
         {
@@ -76,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 684399912,
             "language": "Python",
             "last_commit": "2025-03-07T03:42:22Z",
             "owner": "BeachWang",
@@ -90,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 939882444,
             "language": "Python",
             "last_commit": "2025-09-08T11:09:09Z",
             "owner": "RUCKBReasoning",
@@ -104,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 939882444,
             "language": "Python",
             "last_commit": "2025-09-08T11:09:09Z",
             "owner": "RUCKBReasoning",
@@ -118,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 614949365,
             "language": "Python",
             "last_commit": "2024-03-30T13:41:47Z",
             "owner": "MohammadrezaPourreza",
@@ -132,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 733015849,
             "language": "Python",
             "last_commit": "2025-02-27T04:02:02Z",
             "owner": "wbbeyourself",
@@ -146,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 914995486,
             "language": "Python",
             "last_commit": "2026-06-26T20:32:27Z",
             "owner": "snowflakedb",
@@ -160,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 600767872,
             "language": "Python",
             "last_commit": "2024-05-13T02:45:33Z",
             "owner": "RUCKBReasoning",
@@ -174,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 817915982,
             "language": "Python",
             "last_commit": "2025-05-26T21:26:00Z",
             "owner": "ShayanTalaei",
@@ -188,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 684008243,
             "language": "Python",
             "last_commit": "2024-11-20T06:47:14Z",
             "owner": "RUCKBReasoning",
@@ -202,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 650415781,
             "language": "Python",
             "last_commit": "2024-08-06T07:14:25Z",
             "owner": "bigbigwatermalon",
@@ -216,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 935291897,
             "language": "Python",
             "last_commit": "2025-05-30T02:41:51Z",
             "owner": "OpenSearch-AI",
@@ -230,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 880349270,
             "language": "Python",
             "last_commit": "2025-09-17T03:09:23Z",
             "owner": "Laqcce-cao",
@@ -244,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 749810395,
             "language": "Python",
             "last_commit": "2025-10-02T04:07:45Z",
             "owner": "HKUSTDial",
@@ -258,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 749810395,
             "language": "Python",
             "last_commit": "2025-10-02T04:07:45Z",
             "owner": "HKUSTDial",
@@ -272,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 660099519,
             "language": "Python",
             "last_commit": "2025-08-25T08:54:57Z",
             "owner": "tshu-w",
@@ -286,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 899377322,
             "language": "Python",
             "last_commit": "2026-02-11T09:42:37Z",
             "owner": "XGenerationLab",
@@ -300,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 899377322,
             "language": "Python",
             "last_commit": "2026-02-11T09:42:37Z",
             "owner": "XGenerationLab",
@@ -314,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 809242395,
             "language": "Python",
             "last_commit": "2026-03-06T13:21:53Z",
             "owner": "Yangjiaxi",
@@ -328,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 986375173,
             "language": "Python",
             "last_commit": "2025-08-12T13:19:36Z",
             "owner": "CycloneBoy",
@@ -342,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 986375173,
             "language": "Python",
             "last_commit": "2025-08-12T13:19:36Z",
             "owner": "CycloneBoy",
@@ -356,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 862763080,
             "language": "Python",
             "last_commit": "2024-12-07T16:17:55Z",
             "owner": "HasanAlpCaferoglu",
@@ -370,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1086563121,
             "language": "Python",
             "last_commit": "2026-08-12T12:15:32Z",
             "owner": "YangHaolin0526",
@@ -384,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 724741185,
             "language": "Python",
             "last_commit": "2024-04-08T02:10:51Z",
             "owner": "bigbigwatermalon",
@@ -398,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1074208529,
             "language": "Python",
             "last_commit": "2026-03-25T05:59:28Z",
             "owner": "TechNomad-ds",
@@ -412,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1024012099,
             "language": null,
             "last_commit": "2025-08-12T13:18:34Z",
             "owner": "CycloneBoy",
@@ -426,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 977991590,
             "language": "Python",
             "last_commit": "2025-05-26T10:31:19Z",
             "owner": "ruc-datalab",
@@ -440,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 649161291,
             "language": "Python",
             "last_commit": "2024-07-28T03:11:47Z",
             "owner": "ruc-datalab",
@@ -454,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 649161291,
             "language": "Python",
             "last_commit": "2024-07-28T03:11:47Z",
             "owner": "ruc-datalab",
@@ -468,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 706817625,
             "language": "Python",
             "last_commit": "2025-05-09T02:33:52Z",
             "owner": "Kaimary",
@@ -482,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 920856647,
             "language": "Python",
             "last_commit": "2026-04-25T10:05:46Z",
             "owner": "dais-polymtl",
@@ -496,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 707658595,
             "language": "Python",
             "last_commit": "2024-01-11T07:09:39Z",
             "owner": "X-LANCE",
@@ -510,6 +535,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 766550896,
             "language": "Python",
             "last_commit": "2026-05-14T11:01:03Z",
             "owner": "niklaswretblad",
@@ -524,6 +550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 738368280,
             "language": "Python",
             "last_commit": "2025-05-24T01:43:50Z",
             "owner": "Kaimary",
@@ -538,6 +565,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 738368280,
             "language": "Python",
             "last_commit": "2025-05-24T01:43:50Z",
             "owner": "Kaimary",
@@ -552,6 +580,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1031354537,
             "language": "Python",
             "last_commit": "2026-07-08T02:54:23Z",
             "owner": "uiuc-kang-lab",
@@ -566,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 602939205,
             "language": null,
             "last_commit": "2023-02-18T05:03:19Z",
             "owner": "asfuhan",
@@ -580,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 961826072,
             "language": "Python",
             "last_commit": "2025-08-11T02:10:40Z",
             "owner": "genaasia",
@@ -594,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 773897317,
             "language": "Python",
             "last_commit": "2024-05-07T13:00:31Z",
             "owner": "X-LANCE",
@@ -608,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 627289319,
             "language": "Python",
             "last_commit": "2023-05-13T05:19:58Z",
             "owner": "ruc-datalab",
@@ -622,6 +655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 639496022,
             "language": "Python",
             "last_commit": "2024-11-17T15:38:20Z",
             "owner": "Dakingrai",
@@ -636,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 578958111,
             "language": "Python",
             "last_commit": "2023-12-06T06:16:54Z",
             "owner": "wbbeyourself",
@@ -650,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 976168639,
             "language": "Python",
             "last_commit": "2026-01-22T06:02:54Z",
             "owner": "Relaxed-System-Lab",
@@ -664,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 828498444,
             "language": "Python",
             "last_commit": "2025-03-01T02:25:57Z",
             "owner": "lrlbbzl",
@@ -678,6 +715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 702803153,
             "language": "Python",
             "last_commit": "2023-12-10T20:15:57Z",
             "owner": "shuaichenchang",
@@ -692,6 +730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1150228280,
             "language": "Python",
             "last_commit": "2026-02-23T13:23:15Z",
             "owner": "Satissss",
@@ -706,6 +745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 822295648,
             "language": "Jupyter Notebook",
             "last_commit": "2024-11-02T00:00:49Z",
             "owner": "ZhaoFuheng",
@@ -720,6 +760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 688637467,
             "language": "Python",
             "last_commit": "2024-01-31T19:25:35Z",
             "owner": "itrummer",
@@ -734,6 +775,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 686783871,
             "language": "Python",
             "last_commit": "2023-12-14T23:09:40Z",
             "owner": "AdrianBZG",
@@ -748,6 +790,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1013605060,
             "language": "Python",
             "last_commit": "2026-01-14T11:05:30Z",
             "owner": "chelsea2002",
@@ -762,6 +805,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1065760312,
             "language": "Python",
             "last_commit": "2026-05-15T01:33:31Z",
             "owner": "Atlamtiz",
@@ -776,6 +820,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1071189613,
             "language": "Python",
             "last_commit": "2026-05-31T17:39:00Z",
             "owner": "phkhanhtrinh23",
@@ -790,6 +835,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1106845644,
             "language": "Python",
             "last_commit": "2026-04-23T12:58:59Z",
             "owner": "DEEP-PolyU",
@@ -804,6 +850,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 864796249,
             "language": "Python",
             "last_commit": "2025-06-05T08:11:30Z",
             "owner": "httdty",
@@ -818,6 +865,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 686005141,
             "language": "Python",
             "last_commit": "2023-09-07T14:53:15Z",
             "owner": "httdty",
@@ -832,6 +880,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1017737013,
             "language": "Python",
             "last_commit": "2026-05-07T09:18:02Z",
             "owner": "thatmee",
@@ -846,6 +895,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 849231692,
             "language": "Python",
             "last_commit": "2024-09-30T08:12:05Z",
             "owner": "appier-research",
@@ -860,6 +910,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 940491619,
             "language": "Python",
             "last_commit": "2026-02-10T15:14:53Z",
             "owner": "athenarc",
@@ -874,6 +925,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1098677290,
             "language": "Python",
             "last_commit": "2026-02-11T11:18:55Z",
             "owner": "johnnyZeppelin",
@@ -888,6 +940,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 895460914,
             "language": null,
             "last_commit": "2025-04-01T23:39:33Z",
             "owner": "zhangtianshu",
@@ -902,141 +955,129 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1239117138,
             "language": "Python",
             "last_commit": "2026-05-14T19:27:42Z",
             "owner": "glee4810",
             "repo": "TrustSQL",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Is Long Context All You Need? Leveraging LLM's Extended Context for NL2SQL.",
-          "description": null,
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Rethinking Text-to-SOL: Dynamic Multi-turn SOIInteraction for Real-world Database Exploration.",
-          "description": null,
-          "children": []
         }
       ],
       "title": "📰 Text-to-SQL Paper List"
     },
     {
-      "description": "We create a timeline of the benchmark's development and mark relevant milestones. You can get more details from this chapter: 📊 Benchmark",
-      "items": [],
-      "title": "📊 Text-to-SQL Benchmark"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LLaMA-Factory Repository Link",
+              "description": "Unified Efficient Fine-Tuning of 100+ LLMs. Integrating various models with scalable training resources, advanced algorithms, practical tricks, and comprehensive experiment monitoring tools, this setup enables efficient and faster inference through optimized APIs and UIs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 646410686,
+                "language": "Python",
+                "last_commit": "2026-08-18T11:49:47Z",
+                "owner": "hiyouga",
+                "repo": "LlamaFactory",
+                "stars": 74222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Litgpt Repository Link",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 636372163,
+                "language": "Python",
+                "last_commit": "2026-08-17T10:24:35Z",
+                "owner": "Lightning-AI",
+                "repo": "litgpt",
+                "stars": 13619
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fine-tuning and In-Context learning for BIRD-SQL benchmark Repository Link",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 514217147,
+                "language": "Python",
+                "last_commit": "2026-06-10T11:18:20Z",
+                "owner": "AlibabaResearch",
+                "repo": "DAMO-ConvAI",
+                "stars": 1577
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🛠️ How to build an LLM-based Text-to-SQL model:"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BIRD-SQL-Official Repository Link",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 514217147,
+                "language": "Python",
+                "last_commit": "2026-06-10T11:18:20Z",
+                "owner": "AlibabaResearch",
+                "repo": "DAMO-ConvAI",
+                "stars": 1577
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Test-suite-sql-eval Repository Link",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 305831263,
+                "language": "Python",
+                "last_commit": "2024-06-05T12:16:42Z",
+                "owner": "taoyds",
+                "repo": "test-suite-sql-eval",
+                "stars": 322
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NLSQL360 Repository Link",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 749810395,
+                "language": "Python",
+                "last_commit": "2025-10-02T04:07:45Z",
+                "owner": "HKUSTDial",
+                "repo": "NL2SQL360",
+                "stars": 140
+              }
+            }
+          ],
+          "description": "We collect NL2SQL evaluation metrics for you. You can get more details from this chapter: Evaluation",
+          "node_type": "group",
+          "title": "🔎How to evaluate your model:"
+        }
+      ],
       "title": "💾 Practical Guide for Novice"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "LLaMA-Factory Repository Link",
-          "description": "Unified Efficient Fine-Tuning of 100+ LLMs. Integrating various models with scalable training resources, advanced algorithms, practical tricks, and comprehensive experiment monitoring tools, this setup enables efficient and faster inference through optimized APIs and UIs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-13T12:45:56Z",
-            "owner": "hiyouga",
-            "repo": "LlamaFactory",
-            "stars": 74193
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Litgpt Repository Link",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T10:24:35Z",
-            "owner": "Lightning-AI",
-            "repo": "litgpt",
-            "stars": 13620
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fine-tuning and In-Context learning for BIRD-SQL benchmark Repository Link",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-10T11:18:20Z",
-            "owner": "AlibabaResearch",
-            "repo": "DAMO-ConvAI",
-            "stars": 1577
-          }
-        }
-      ],
-      "title": "🛠️ How to build an LLM-based Text-to-SQL model:"
-    },
-    {
-      "description": "We collect NL2SQL evaluation metrics for you. You can get more details from this chapter: Evaluation",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "BIRD-SQL-Official Repository Link",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-10T11:18:20Z",
-            "owner": "AlibabaResearch",
-            "repo": "DAMO-ConvAI",
-            "stars": 1577
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Test-suite-sql-eval Repository Link",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-05T12:16:42Z",
-            "owner": "taoyds",
-            "repo": "test-suite-sql-eval",
-            "stars": 322
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NLSQL360 Repository Link",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-10-02T04:07:45Z",
-            "owner": "HKUSTDial",
-            "repo": "NL2SQL360",
-            "stars": 140
-          }
-        }
-      ],
-      "title": "🔎How to evaluate your model:"
-    },
-    {
-      "description": "You can get some inspiration from the Roadmap and Decision Flow.",
-      "items": [],
-      "title": "🗺️ Roadmap and Decision Flow"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1045,11 +1086,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 656227652,
             "language": "Java",
-            "last_commit": "2026-08-18T09:23:58Z",
+            "last_commit": "2026-08-19T09:08:23Z",
             "owner": "OtterMind",
             "repo": "Chat2DB",
-            "stars": 27964
+            "stars": 27980
           }
         },
         {
@@ -1059,11 +1101,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 627480054,
             "language": "Python",
-            "last_commit": "2026-08-17T12:25:25Z",
+            "last_commit": "2026-08-19T09:18:30Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19742
+            "stars": 19754
           }
         },
         {
@@ -1073,6 +1116,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 832300204,
             "language": "TypeScript",
             "last_commit": "2026-06-03T20:01:40Z",
             "owner": "supabase-community",
@@ -1082,15 +1126,10 @@
         }
       ],
       "title": "📱 Text-to-SQL Related Applications:"
-    },
-    {
-      "description": "Please feel free to contact us if we missed any interesting work.\n📧 xliu371[at]connect.hkust-gz.edu.cn",
-      "items": [],
-      "title": "📮Connect with Us"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:45:51.958Z",
+    "last_updated": "2026-08-19T09:46:19.610Z",
     "original_repository": "HKUSTDial/NL2SQL_Handbook",
     "original_repository_sha": "c78ca04744714acb02ffed93d7278166b8c190df",
     "enhanced_repository": "enhansome/enhansome-NL2SQL_Handbook",
