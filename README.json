@@ -12,10 +12,10 @@
             "archived": false,
             "id": 627480054,
             "language": "Python",
-            "last_commit": "2026-08-19T09:18:30Z",
+            "last_commit": "2026-08-19T11:34:53Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19754
+            "stars": 19756
           }
         },
         {
@@ -983,7 +983,7 @@
                 "last_commit": "2026-08-18T11:49:47Z",
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 74222
+                "stars": 74227
               }
             },
             {
@@ -1103,10 +1103,10 @@
             "archived": false,
             "id": 627480054,
             "language": "Python",
-            "last_commit": "2026-08-19T09:18:30Z",
+            "last_commit": "2026-08-19T11:34:53Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19754
+            "stars": 19756
           }
         },
         {
@@ -1129,8 +1129,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:46:19.610Z",
+    "last_updated": "2026-08-19T12:10:57.398Z",
     "original_repository": "HKUSTDial/NL2SQL_Handbook",
+    "original_repository_id": 803643412,
     "original_repository_sha": "c78ca04744714acb02ffed93d7278166b8c190df",
     "enhanced_repository": "enhansome/enhansome-NL2SQL_Handbook",
     "enhanced_repository_description": null,
