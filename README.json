@@ -12,10 +12,10 @@
             "archived": false,
             "id": 627480054,
             "language": "Python",
-            "last_commit": "2026-08-19T11:34:53Z",
+            "last_commit": "2026-08-20T08:05:04Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19756
+            "stars": 19765
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-12T13:01:36Z",
             "owner": "xlang-ai",
             "repo": "Spider2",
-            "stars": 855
+            "stars": 856
           }
         },
         {
@@ -510,7 +510,7 @@
             "last_commit": "2026-04-25T10:05:46Z",
             "owner": "dais-polymtl",
             "repo": "sqlmorph",
-            "stars": 23
+            "stars": 24
           }
         },
         {
@@ -983,7 +983,7 @@
                 "last_commit": "2026-08-18T11:49:47Z",
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 74227
+                "stars": 74248
               }
             },
             {
@@ -998,7 +998,7 @@
                 "last_commit": "2026-08-17T10:24:35Z",
                 "owner": "Lightning-AI",
                 "repo": "litgpt",
-                "stars": 13619
+                "stars": 13621
               }
             },
             {
@@ -1088,10 +1088,10 @@
             "archived": false,
             "id": 656227652,
             "language": "Java",
-            "last_commit": "2026-08-19T09:08:23Z",
+            "last_commit": "2026-08-20T09:37:53Z",
             "owner": "OtterMind",
             "repo": "Chat2DB",
-            "stars": 27980
+            "stars": 27987
           }
         },
         {
@@ -1103,10 +1103,10 @@
             "archived": false,
             "id": 627480054,
             "language": "Python",
-            "last_commit": "2026-08-19T11:34:53Z",
+            "last_commit": "2026-08-20T08:05:04Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19756
+            "stars": 19765
           }
         },
         {
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:10:57.398Z",
+    "last_updated": "2026-08-20T09:47:13.367Z",
     "original_repository": "HKUSTDial/NL2SQL_Handbook",
     "original_repository_id": 803643412,
     "original_repository_sha": "c78ca04744714acb02ffed93d7278166b8c190df",
