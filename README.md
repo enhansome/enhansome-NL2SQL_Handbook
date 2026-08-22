@@ -102,7 +102,7 @@ utilizing the language model.
 
 ## 📰 Text-to-SQL Paper List
 
-1. DB-GPT: Empowering Database Interactions with Private Large Language Models. <img src="https://img.shields.io/badge/arXiv'2024-purple"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/abs/2312.17449) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/eosphoros-ai/DB-GPT) ⭐ 19,774 | 🐛 426 | 🌐 Python | 📅 2026-08-21
+1. DB-GPT: Empowering Database Interactions with Private Large Language Models. <img src="https://img.shields.io/badge/arXiv'2024-purple"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/abs/2312.17449) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/eosphoros-ai/DB-GPT) ⭐ 19,777 | 🐛 426 | 🌐 Python | 📅 2026-08-21
 2. Graphix-T5: Mixing Pre-trained Transformers with Graph-Aware Layers for Text-to-SQL Parsing. <img src="https://img.shields.io/badge/AAAI'2023-cyan"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/abs/2301.07507) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/graphix) ⭐ 1,578 | 🐛 79 | 🌐 Python | 📅 2026-06-10
 3. Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows. <img src="https://img.shields.io/badge/ICLR'2025-brightgreen"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/abs/2411.07763) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/xlang-ai/Spider2) ⭐ 857 | 🐛 119 | 🌐 HTML | 📅 2026-08-12
 4. Text2SQL is Not Enough: Unifying AI and Databases with TAG. <img src="https://img.shields.io/badge/arXiv'2025-purple"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/pdf/2408.14717) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/TAG-Research/TAG-Bench) ⭐ 765 | 🐛 4 | 🌐 Python | 📅 2026-07-25
@@ -284,10 +284,10 @@ You can get more information from our subsection. We introduce representative pa
 
 ### 🛠️ How to build an LLM-based Text-to-SQL model:
 
-* LLaMA-Factory [Repository Link](https://github.com/hiyouga/LLaMA-Factory) ⭐ 74,276 | 🐛 1,115 | 🌐 Python | 📅 2026-08-20
+* LLaMA-Factory [Repository Link](https://github.com/hiyouga/LLaMA-Factory) ⭐ 74,289 | 🐛 1,126 | 🌐 Python | 📅 2026-08-20
   Unified Efficient Fine-Tuning of 100+ LLMs. Integrating various models with scalable training resources, advanced algorithms, practical tricks, and comprehensive experiment monitoring tools, this setup enables efficient and faster inference through optimized APIs and UIs.
 
-* Litgpt [Repository Link](https://github.com/Lightning-AI/litgpt) ⭐ 13,619 | 🐛 276 | 🌐 Python | 📅 2026-08-17
+* Litgpt [Repository Link](https://github.com/Lightning-AI/litgpt) ⭐ 13,619 | 🐛 277 | 🌐 Python | 📅 2026-08-17
 
   This repository offers access to over 20 high-performance large language models (LLMs) with comprehensive guides for pretraining, fine-tuning, and deploying at scale. It is designed to be beginner-friendly with from-scratch implementations and no complex abstractions.
 
@@ -321,8 +321,8 @@ You can get some inspiration from the Roadmap and Decision Flow.
 
 ## 📱 Text-to-SQL Related Applications:
 
-* Chat2DB: AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more. [<img src="https://img.shields.io/badge/Repositor Link-grey">](https://github.com/codePhiliaX/Chat2DB) ⭐ 28,004 | 🐛 249 | 🌐 Java | 📅 2026-08-21 [<img src="https://img.shields.io/badge/Web Link-98f">](https://chat2db-ai.com/zh-CN)
-* DB-GPT: AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents. [<img src="https://img.shields.io/badge/Repositor Link-grey">](https://github.com/eosphoros-ai/DB-GPT) ⭐ 19,774 | 🐛 426 | 🌐 Python | 📅 2026-08-21
+* Chat2DB: AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more. [<img src="https://img.shields.io/badge/Repositor Link-grey">](https://github.com/codePhiliaX/Chat2DB) ⭐ 28,010 | 🐛 250 | 🌐 Java | 📅 2026-08-21 [<img src="https://img.shields.io/badge/Web Link-98f">](https://chat2db-ai.com/zh-CN)
+* DB-GPT: AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents. [<img src="https://img.shields.io/badge/Repositor Link-grey">](https://github.com/eosphoros-ai/DB-GPT) ⭐ 19,777 | 🐛 426 | 🌐 Python | 📅 2026-08-21
 * Postgres.new: In-browser Postgres sandbox with AI assistance.  [<img src="https://img.shields.io/badge/Repositor Link-grey">](https://github.com/supabase-community/postgres-new/tree/main) ⭐ 2,952 | 🐛 49 | 🌐 TypeScript | 📅 2026-06-03 [<img src="https://img.shields.io/badge/Web Link-98f">](https://postgres.new/)
 * AI for Database: Agentic AI product for databases — connect any database (PostgreSQL, MySQL, MongoDB, etc.) and talk to it in plain English. Features self-refreshing intelligent dashboards, natural language queries, and automated action workflows that trigger on database changes. [<img src="https://img.shields.io/badge/Web Link-98f">](https://aifordatabase.com)
 * QueryGPT – Natural Language to SQL Using Generative AI. [<img src="https://img.shields.io/badge/Web Link-98f">](https://www.uber.com/en-JP/blog/query-gpt/)
@@ -335,4 +335,4 @@ Please feel free to contact us if we missed any interesting work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
