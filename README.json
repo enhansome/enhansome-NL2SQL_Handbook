@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T01:55:03Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19783
+            "stars": 19788
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-12T13:01:36Z",
             "owner": "xlang-ai",
             "repo": "Spider2",
-            "stars": 857
+            "stars": 859
           }
         },
         {
@@ -200,21 +200,6 @@
         },
         {
           "node_type": "item",
-          "title": "OpenSearch-SQL: Enhancing Text-to-SQL with Dynamic Few-shot and Consistency Alignment.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 935291897,
-            "language": "Python",
-            "last_commit": "2025-05-30T02:41:51Z",
-            "owner": "OpenSearch-AI",
-            "repo": "OpenSearch-SQL",
-            "stars": 167
-          }
-        },
-        {
-          "node_type": "item",
           "title": "C3: Zero-shot Text-to-SQL with ChatGPT",
           "description": null,
           "children": [],
@@ -225,6 +210,21 @@
             "last_commit": "2024-08-06T07:14:25Z",
             "owner": "bigbigwatermalon",
             "repo": "C3SQL",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSearch-SQL: Enhancing Text-to-SQL with Dynamic Few-shot and Consistency Alignment.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 935291897,
+            "language": "Python",
+            "last_commit": "2025-05-30T02:41:51Z",
+            "owner": "OpenSearch-AI",
+            "repo": "OpenSearch-SQL",
             "stars": 167
           }
         },
@@ -405,7 +405,7 @@
             "last_commit": "2024-04-08T02:10:51Z",
             "owner": "bigbigwatermalon",
             "repo": "FinSQL",
-            "stars": 44
+            "stars": 45
           }
         },
         {
@@ -983,7 +983,7 @@
                 "last_commit": "2026-08-20T10:53:39Z",
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 74294
+                "stars": 74308
               }
             },
             {
@@ -1088,10 +1088,10 @@
             "archived": false,
             "id": 656227652,
             "language": "Java",
-            "last_commit": "2026-08-21T09:53:31Z",
+            "last_commit": "2026-08-24T08:57:57Z",
             "owner": "OtterMind",
             "repo": "Chat2DB",
-            "stars": 28015
+            "stars": 28026
           }
         },
         {
@@ -1106,7 +1106,7 @@
             "last_commit": "2026-08-21T01:55:03Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19783
+            "stars": 19788
           }
         },
         {
@@ -1121,7 +1121,7 @@
             "last_commit": "2026-06-03T20:01:40Z",
             "owner": "supabase-community",
             "repo": "database-build",
-            "stars": 2952
+            "stars": 2953
           }
         }
       ],
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T09:38:28.509Z",
+    "last_updated": "2026-08-24T09:59:23.987Z",
     "original_repository": "HKUSTDial/NL2SQL_Handbook",
     "original_repository_id": 803643412,
     "original_repository_sha": "c78ca04744714acb02ffed93d7278166b8c190df",
