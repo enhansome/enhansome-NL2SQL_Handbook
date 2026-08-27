@@ -15,7 +15,7 @@
             "last_commit": "2026-08-26T11:10:31Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19805
+            "stars": 19810
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-07-25T20:13:10Z",
             "owner": "TAG-Research",
             "repo": "TAG-Bench",
-            "stars": 765
+            "stars": 766
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2025-02-27T04:02:02Z",
             "owner": "wbbeyourself",
             "repo": "MAC-SQL",
-            "stars": 345
+            "stars": 346
           }
         },
         {
@@ -582,7 +582,7 @@
             "archived": false,
             "id": 1031354537,
             "language": "Python",
-            "last_commit": "2026-07-08T02:54:23Z",
+            "last_commit": "2026-08-27T14:52:58Z",
             "owner": "uiuc-kang-lab",
             "repo": "text_to_sql_benchmarks",
             "stars": 15
@@ -983,7 +983,7 @@
                 "last_commit": "2026-08-27T10:50:57Z",
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 74393
+                "stars": 74398
               }
             },
             {
@@ -998,7 +998,7 @@
                 "last_commit": "2026-08-17T10:24:35Z",
                 "owner": "Lightning-AI",
                 "repo": "litgpt",
-                "stars": 13631
+                "stars": 13632
               }
             },
             {
@@ -1088,10 +1088,10 @@
             "archived": false,
             "id": 656227652,
             "language": "Java",
-            "last_commit": "2026-08-27T09:36:37Z",
+            "last_commit": "2026-08-27T13:16:06Z",
             "owner": "OtterMind",
             "repo": "Chat2DB",
-            "stars": 28042
+            "stars": 28043
           }
         },
         {
@@ -1106,7 +1106,7 @@
             "last_commit": "2026-08-26T11:10:31Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19805
+            "stars": 19810
           }
         },
         {
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:56:28.442Z",
+    "last_updated": "2026-08-27T19:48:49.715Z",
     "original_repository_info": {
       "archived": false,
       "id": 803643412,
