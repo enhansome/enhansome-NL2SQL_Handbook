@@ -12,10 +12,10 @@
             "archived": false,
             "id": 627480054,
             "language": "Python",
-            "last_commit": "2026-08-26T09:48:55Z",
+            "last_commit": "2026-08-26T11:10:31Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19800
+            "stars": 19805
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-06-10T11:18:20Z",
             "owner": "AlibabaResearch",
             "repo": "DAMO-ConvAI",
-            "stars": 1579
+            "stars": 1580
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2025-03-07T03:42:22Z",
             "owner": "BeachWang",
             "repo": "DAIL-SQL",
-            "stars": 641
+            "stars": 640
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-20T22:16:01Z",
             "owner": "snowflakedb",
             "repo": "ArcticTraining",
-            "stars": 290
+            "stars": 291
           }
         },
         {
@@ -450,7 +450,7 @@
             "last_commit": "2025-05-26T10:31:19Z",
             "owner": "ruc-datalab",
             "repo": "RewardSQL",
-            "stars": 32
+            "stars": 33
           }
         },
         {
@@ -980,10 +980,10 @@
                 "archived": false,
                 "id": 646410686,
                 "language": "Python",
-                "last_commit": "2026-08-25T08:53:02Z",
+                "last_commit": "2026-08-27T10:50:57Z",
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 74371
+                "stars": 74393
               }
             },
             {
@@ -998,7 +998,7 @@
                 "last_commit": "2026-08-17T10:24:35Z",
                 "owner": "Lightning-AI",
                 "repo": "litgpt",
-                "stars": 13628
+                "stars": 13631
               }
             },
             {
@@ -1013,7 +1013,7 @@
                 "last_commit": "2026-06-10T11:18:20Z",
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1579
+                "stars": 1580
               }
             }
           ],
@@ -1035,7 +1035,7 @@
                 "last_commit": "2026-06-10T11:18:20Z",
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1579
+                "stars": 1580
               }
             },
             {
@@ -1088,10 +1088,10 @@
             "archived": false,
             "id": 656227652,
             "language": "Java",
-            "last_commit": "2026-08-26T09:12:04Z",
+            "last_commit": "2026-08-27T09:36:37Z",
             "owner": "OtterMind",
             "repo": "Chat2DB",
-            "stars": 28037
+            "stars": 28042
           }
         },
         {
@@ -1103,10 +1103,10 @@
             "archived": false,
             "id": 627480054,
             "language": "Python",
-            "last_commit": "2026-08-26T09:48:55Z",
+            "last_commit": "2026-08-26T11:10:31Z",
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19800
+            "stars": 19805
           }
         },
         {
@@ -1129,9 +1129,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:53:49.532Z",
-    "original_repository": "HKUSTDial/NL2SQL_Handbook",
-    "original_repository_id": 803643412,
+    "last_updated": "2026-08-27T11:56:28.442Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 803643412,
+      "language": "Python",
+      "last_commit": "2026-07-28T08:54:04Z",
+      "owner": "HKUSTDial",
+      "repo": "NL2SQL_Handbook",
+      "stars": 1577
+    },
     "original_repository_sha": "c78ca04744714acb02ffed93d7278166b8c190df",
     "enhanced_repository": "enhansome/enhansome-NL2SQL_Handbook",
     "enhanced_repository_description": null,
