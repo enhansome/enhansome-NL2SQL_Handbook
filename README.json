@@ -19,7 +19,7 @@
             "open_issues": 422,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19821,
+            "stars": 19824,
             "topics": [
               "agents",
               "bgi",
@@ -500,27 +500,6 @@
         },
         {
           "node_type": "item",
-          "title": "Synthesizing Text-to-SQL Data from Weak and Strong LLMs.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[ACL24] Official repo for \"Synthesizing Text-to-SQL Data from Weak and Strong LLMs\"",
-            "homepage": null,
-            "id": 809242395,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-03-06T13:21:53Z",
-            "open_issues": 5,
-            "owner": "Yangjiaxi",
-            "repo": "Sense",
-            "stars": 66,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:49:16.431Z"
-        },
-        {
-          "node_type": "item",
           "title": "CSC-SQL: Corrective Self-Consistency in Text-to-SQL via Reinforcement Learning.",
           "description": null,
           "children": [],
@@ -535,7 +514,7 @@
             "open_issues": 2,
             "owner": "CycloneBoy",
             "repo": "csc_sql",
-            "stars": 65,
+            "stars": 66,
             "topics": [
               "grpo",
               "self-consistency",
@@ -560,12 +539,33 @@
             "open_issues": 2,
             "owner": "CycloneBoy",
             "repo": "csc_sql",
-            "stars": 65,
+            "stars": 66,
             "topics": [
               "grpo",
               "self-consistency",
               "text-to-sql"
             ]
+          },
+          "first_seen": "2026-08-28T20:49:16.431Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Synthesizing Text-to-SQL Data from Weak and Strong LLMs.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[ACL24] Official repo for \"Synthesizing Text-to-SQL Data from Weak and Strong LLMs\"",
+            "homepage": null,
+            "id": 809242395,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-03-06T13:21:53Z",
+            "open_issues": 5,
+            "owner": "Yangjiaxi",
+            "repo": "Sense",
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:49:16.431Z"
         },
@@ -1459,10 +1459,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-27T10:50:57Z",
-                "open_issues": 1138,
+                "open_issues": 1140,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 74430,
+                "stars": 74439,
                 "topics": [
                   "agent",
                   "ai",
@@ -1504,7 +1504,7 @@
                 "open_issues": 282,
                 "owner": "Lightning-AI",
                 "repo": "litgpt",
-                "stars": 13635,
+                "stars": 13636,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1652,10 +1652,10 @@
             "language": "Java",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T22:23:24Z",
-            "open_issues": 262,
+            "open_issues": 269,
             "owner": "OtterMind",
             "repo": "Chat2DB",
-            "stars": 28049,
+            "stars": 28053,
             "topics": [
               "ai",
               "clickhouse",
@@ -1697,7 +1697,7 @@
             "open_issues": 422,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19821,
+            "stars": 19824,
             "topics": [
               "agents",
               "bgi",
@@ -1747,7 +1747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:28:12.052Z",
+    "last_updated": "2026-08-29T14:26:00.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a continuously updated handbook for readers to easily track the latest Text-to-SQL techniques in the literature and provide practical guidance for researchers and practitioners. ",
