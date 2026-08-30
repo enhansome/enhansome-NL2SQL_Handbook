@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-28T10:46:48Z",
-            "open_issues": 422,
+            "open_issues": 424,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19824,
+            "stars": 19825,
             "topics": [
               "agents",
               "bgi",
@@ -1459,10 +1459,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-27T10:50:57Z",
-                "open_issues": 1140,
+                "open_issues": 1141,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 74439,
+                "stars": 74446,
                 "topics": [
                   "agent",
                   "ai",
@@ -1504,7 +1504,7 @@
                 "open_issues": 282,
                 "owner": "Lightning-AI",
                 "repo": "litgpt",
-                "stars": 13636,
+                "stars": 13638,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1652,7 +1652,7 @@
             "language": "Java",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T22:23:24Z",
-            "open_issues": 269,
+            "open_issues": 295,
             "owner": "OtterMind",
             "repo": "Chat2DB",
             "stars": 28053,
@@ -1694,10 +1694,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-28T10:46:48Z",
-            "open_issues": 422,
+            "open_issues": 424,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19824,
+            "stars": 19825,
             "topics": [
               "agents",
               "bgi",
@@ -1747,7 +1747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T14:26:00.306Z",
+    "last_updated": "2026-08-30T14:23:51.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a continuously updated handbook for readers to easily track the latest Text-to-SQL techniques in the literature and provide practical guidance for researchers and practitioners. ",
@@ -1759,7 +1759,7 @@
       "open_issues": 0,
       "owner": "HKUSTDial",
       "repo": "NL2SQL_Handbook",
-      "stars": 1578,
+      "stars": 1579,
       "topics": [
         "ai4db",
         "awesome",
