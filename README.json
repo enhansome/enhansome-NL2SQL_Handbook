@@ -15,11 +15,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-28T10:46:48Z",
-            "open_issues": 424,
+            "last_commit": "2026-08-31T03:49:48Z",
+            "open_issues": 423,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19825,
+            "stars": 19829,
             "topics": [
               "agents",
               "bgi",
@@ -53,7 +53,7 @@
             "open_issues": 79,
             "owner": "AlibabaResearch",
             "repo": "DAMO-ConvAI",
-            "stars": 1580,
+            "stars": 1588,
             "topics": [
               "conversational-ai",
               "deep-learning",
@@ -771,6 +771,27 @@
         },
         {
           "node_type": "item",
+          "title": "SQL-Factory: A Multi-Agent Framework for High-Quality and Large-Scale SQL Generation.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Code for 'SQL-Factory: A Multi-Agent Framework for High-Quality and Large-Scale SQL Generation'",
+            "homepage": null,
+            "id": 968476501,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-02-25T12:35:34Z",
+            "open_issues": 0,
+            "owner": "LJHzju",
+            "repo": "SQL-Factory",
+            "stars": 24,
+            "topics": []
+          },
+          "first_seen": "2026-08-31T17:01:59.711Z"
+        },
+        {
+          "node_type": "item",
           "title": "SQLMorph: Query Mutation and Fine-Grained Metrics for Text-to-SQL Evaluation.",
           "description": null,
           "children": [],
@@ -930,6 +951,27 @@
         },
         {
           "node_type": "item",
+          "title": "TACO: A Benchmark for Open-Domain Text-to-SQL with Ambiguous and Cross-Database Queries.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 968510267,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-06-15T07:27:37Z",
+            "open_issues": 3,
+            "owner": "Akanezora0",
+            "repo": "TACO-Benchmark",
+            "stars": 14,
+            "topics": []
+          },
+          "first_seen": "2026-08-31T17:01:59.711Z"
+        },
+        {
+          "node_type": "item",
           "title": "Cheaper, Better, Faster, Stronger: Robust Text-to-SQL without Chain-of-Thought or Fine-Tuning.",
           "description": null,
           "children": [],
@@ -1035,6 +1077,27 @@
         },
         {
           "node_type": "item",
+          "title": "SafeQL: Search-based Refinement for Safe and Efficient LLM-based Text-to-SQL.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "SafeQL: A search-based refinement framework for trustworthy Text-to-SQL",
+            "homepage": "https://safeql.readthedocs.io/",
+            "id": 1107658662,
+            "language": "C",
+            "license": "Apache-2.0",
+            "last_commit": "2025-12-03T06:04:36Z",
+            "open_issues": 0,
+            "owner": "Geonho-Lee",
+            "repo": "SafeQL",
+            "stars": 9,
+            "topics": []
+          },
+          "first_seen": "2026-08-31T17:01:59.711Z"
+        },
+        {
+          "node_type": "item",
           "title": "Hexgen-Flow: Optimizing LLM Inference Request Scheduling for Agentic Text-to-SQL.",
           "description": null,
           "children": [],
@@ -1137,6 +1200,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:16.431Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Dial: A Knowledge-Grounded Dialect-Specific NL2SQL System",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1005005887,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-03-07T19:11:12Z",
+            "open_issues": 0,
+            "owner": "OpenDataBox",
+            "repo": "Dial",
+            "stars": 7,
+            "topics": []
+          },
+          "first_seen": "2026-08-31T17:01:59.711Z"
         },
         {
           "node_type": "item",
@@ -1335,6 +1419,92 @@
         },
         {
           "node_type": "item",
+          "title": "NL2SQLBench: A Modular Benchmarking Framework for LLM-Enabled NL2SQL Solutions.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Benchmarking Framework for LLM-Enabled NL2SQL Solutions",
+            "homepage": null,
+            "id": 993863964,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2025-11-13T21:08:27Z",
+            "open_issues": 0,
+            "owner": "neurdb",
+            "repo": "NL2SQLBench",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-08-31T17:01:59.711Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SQL-Exchange: Transforming SQL Queries Across Domains",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Schema-aware SQL query transformation with LLMs — by Mohammadreza Daviran (@mmdrez4) and Brian Lin (@brian-333).",
+            "homepage": "https://arxiv.org/abs/2508.07087",
+            "id": 1029385476,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-12-08T13:10:31Z",
+            "open_issues": 0,
+            "owner": "mmdrez4",
+            "repo": "SQL-Exchange",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-08-31T17:01:59.711Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSQL: Data-Efficient Text-to-SQL for Open-Source LLMs via Synthesized Intermediate Supervision.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Data-Efficient Text-to-SQL for Open-Source LLMs via Synthesized Intermediate Supervision",
+            "homepage": null,
+            "id": 1162279098,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-05-13T07:48:22Z",
+            "open_issues": 0,
+            "owner": "TsinghuaDatabaseGroup",
+            "repo": "OpenSQL",
+            "stars": 2,
+            "topics": [
+              "text-to-sql"
+            ]
+          },
+          "first_seen": "2026-08-31T17:01:59.711Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Bridging NL2SQL for CAN Signal Analytics at NIO: From Externalized Schemas to CTE Pipelines.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1171577740,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-03-04T04:38:46Z",
+            "open_issues": 0,
+            "owner": "OpenDataBox",
+            "repo": "NIO-Weaver",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-08-31T17:01:59.711Z"
+        },
+        {
+          "node_type": "item",
           "title": "I Need Help! Evaluating LLM’s Ability to Ask for Users’ Support: A Case Study on Text-to-SQL Generation.",
           "description": null,
           "children": [],
@@ -1398,6 +1568,27 @@
         },
         {
           "node_type": "item",
+          "title": "A Comparative Evaluation of Schema Subseing for LLM-based NL-to-SQL over Large-Schema Databases.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 835428802,
+            "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T12:33:28Z",
+            "open_issues": 0,
+            "owner": "KyleLuoma",
+            "repo": "SKALPEL-subsetting-evaluation",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-08-31T17:01:59.711Z"
+        },
+        {
+          "node_type": "item",
           "title": "EVOSCHEMA: TOWARDS TEXT-TO-SQL ROBUSTNESS AGAINST SCHEMA EVOLUTION.",
           "description": null,
           "children": [],
@@ -1458,11 +1649,11 @@
                 "id": 646410686,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T10:50:57Z",
-                "open_issues": 1141,
+                "last_commit": "2026-08-31T08:13:07Z",
+                "open_issues": 1139,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 74446,
+                "stars": 74481,
                 "topics": [
                   "agent",
                   "ai",
@@ -1500,11 +1691,11 @@
                 "id": 636372163,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-17T10:24:35Z",
-                "open_issues": 282,
+                "last_commit": "2026-08-31T01:02:56Z",
+                "open_issues": 287,
                 "owner": "Lightning-AI",
                 "repo": "litgpt",
-                "stars": 13638,
+                "stars": 13639,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1533,7 +1724,7 @@
                 "open_issues": 79,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1580,
+                "stars": 1588,
                 "topics": [
                   "conversational-ai",
                   "deep-learning",
@@ -1566,7 +1757,7 @@
                 "open_issues": 79,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1580,
+                "stars": 1588,
                 "topics": [
                   "conversational-ai",
                   "deep-learning",
@@ -1651,11 +1842,11 @@
             "id": 656227652,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T22:23:24Z",
-            "open_issues": 295,
+            "last_commit": "2026-08-31T15:37:09Z",
+            "open_issues": 316,
             "owner": "OtterMind",
             "repo": "Chat2DB",
-            "stars": 28053,
+            "stars": 28056,
             "topics": [
               "ai",
               "clickhouse",
@@ -1693,11 +1884,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-28T10:46:48Z",
-            "open_issues": 424,
+            "last_commit": "2026-08-31T03:49:48Z",
+            "open_issues": 423,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19825,
+            "stars": 19829,
             "topics": [
               "agents",
               "bgi",
@@ -1731,7 +1922,7 @@
             "open_issues": 49,
             "owner": "supabase-community",
             "repo": "database-build",
-            "stars": 2953,
+            "stars": 2952,
             "topics": [
               "ai",
               "browser",
@@ -1747,7 +1938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:23:51.954Z",
+    "last_updated": "2026-08-31T17:01:59.711Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a continuously updated handbook for readers to easily track the latest Text-to-SQL techniques in the literature and provide practical guidance for researchers and practitioners. ",
@@ -1755,7 +1946,7 @@
       "id": 803643412,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-07-28T08:54:04Z",
+      "last_commit": "2026-08-31T09:08:41Z",
       "open_issues": 0,
       "owner": "HKUSTDial",
       "repo": "NL2SQL_Handbook",
@@ -1778,7 +1969,7 @@
         "text2sql"
       ]
     },
-    "original_repository_sha": "c78ca04744714acb02ffed93d7278166b8c190df",
+    "original_repository_sha": "bf4f2e0174c79d9a1d68dc02b761c522630f49ce",
     "enhanced_repository": "enhansome/enhansome-NL2SQL_Handbook",
     "enhanced_repository_description": null,
     "title": "Awesome NL2SQL Handbook with stars"
