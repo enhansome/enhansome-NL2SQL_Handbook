@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-31T03:49:48Z",
-            "open_issues": 425,
+            "open_issues": 428,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19840,
+            "stars": 19845,
             "topics": [
               "agents",
               "bgi",
@@ -241,6 +241,27 @@
         },
         {
           "node_type": "item",
+          "title": "CHESS: Contextual Harnessing for Efficient SQL Synthesis.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Contextual Harnessing for Efficient SQL Synthesis",
+            "homepage": null,
+            "id": 817915982,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2025-05-26T21:26:00Z",
+            "open_issues": 14,
+            "owner": "ShayanTalaei",
+            "repo": "CHESS",
+            "stars": 281,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:49:16.431Z"
+        },
+        {
+          "node_type": "item",
           "title": "RESDSQL: Decoupling Schema Linking and Skeleton Parsing for Text-to-SQL.",
           "description": null,
           "children": [],
@@ -256,27 +277,6 @@
             "owner": "RUCKBReasoning",
             "repo": "RESDSQL",
             "stars": 281,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:49:16.431Z"
-        },
-        {
-          "node_type": "item",
-          "title": "CHESS: Contextual Harnessing for Efficient SQL Synthesis.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Contextual Harnessing for Efficient SQL Synthesis",
-            "homepage": null,
-            "id": 817915982,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2025-05-26T21:26:00Z",
-            "open_issues": 14,
-            "owner": "ShayanTalaei",
-            "repo": "CHESS",
-            "stars": 280,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:16.431Z"
@@ -923,7 +923,7 @@
             "open_issues": 5,
             "owner": "uiuc-kang-lab",
             "repo": "text_to_sql_benchmarks",
-            "stars": 15,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:16.431Z"
@@ -1649,11 +1649,11 @@
                 "id": 646410686,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T08:13:07Z",
+                "last_commit": "2026-09-02T07:52:23Z",
                 "open_issues": 1140,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 74499,
+                "stars": 74522,
                 "topics": [
                   "agent",
                   "ai",
@@ -1692,10 +1692,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-31T01:02:56Z",
-                "open_issues": 287,
+                "open_issues": 288,
                 "owner": "Lightning-AI",
                 "repo": "litgpt",
-                "stars": 13640,
+                "stars": 13643,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1842,8 +1842,8 @@
             "id": 656227652,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-01T12:32:23Z",
-            "open_issues": 317,
+            "last_commit": "2026-09-02T11:52:40Z",
+            "open_issues": 310,
             "owner": "OtterMind",
             "repo": "Chat2DB",
             "stars": 28056,
@@ -1885,10 +1885,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-31T03:49:48Z",
-            "open_issues": 425,
+            "open_issues": 428,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19840,
+            "stars": 19845,
             "topics": [
               "agents",
               "bgi",
@@ -1922,7 +1922,7 @@
             "open_issues": 49,
             "owner": "supabase-community",
             "repo": "database-build",
-            "stars": 2953,
+            "stars": 2954,
             "topics": [
               "ai",
               "browser",
@@ -1938,7 +1938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T14:06:52.001Z",
+    "last_updated": "2026-09-02T13:35:30.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a continuously updated handbook for readers to easily track the latest Text-to-SQL techniques in the literature and provide practical guidance for researchers and practitioners. ",
