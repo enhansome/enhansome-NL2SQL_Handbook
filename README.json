@@ -19,7 +19,7 @@
             "open_issues": 428,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19845,
+            "stars": 19859,
             "topics": [
               "agents",
               "bgi",
@@ -1650,10 +1650,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-02T07:52:23Z",
-                "open_issues": 1140,
+                "open_issues": 1141,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 74522,
+                "stars": 74551,
                 "topics": [
                   "agent",
                   "ai",
@@ -1692,10 +1692,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-31T01:02:56Z",
-                "open_issues": 288,
+                "open_issues": 289,
                 "owner": "Lightning-AI",
                 "repo": "litgpt",
-                "stars": 13643,
+                "stars": 13649,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1783,7 +1783,7 @@
                 "open_issues": 23,
                 "owner": "taoyds",
                 "repo": "test-suite-sql-eval",
-                "stars": 321,
+                "stars": 322,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:49:16.431Z"
@@ -1842,11 +1842,11 @@
             "id": 656227652,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T11:52:40Z",
-            "open_issues": 310,
+            "last_commit": "2026-09-03T12:11:52Z",
+            "open_issues": 301,
             "owner": "OtterMind",
             "repo": "Chat2DB",
-            "stars": 28056,
+            "stars": 28064,
             "topics": [
               "ai",
               "clickhouse",
@@ -1888,7 +1888,7 @@
             "open_issues": 428,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19845,
+            "stars": 19859,
             "topics": [
               "agents",
               "bgi",
@@ -1938,7 +1938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T13:35:30.318Z",
+    "last_updated": "2026-09-03T13:31:48.272Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a continuously updated handbook for readers to easily track the latest Text-to-SQL techniques in the literature and provide practical guidance for researchers and practitioners. ",
