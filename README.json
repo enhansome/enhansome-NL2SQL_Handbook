@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-08T09:23:37Z",
-            "open_issues": 435,
+            "open_issues": 436,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19925,
+            "stars": 19930,
             "topics": [
               "agents",
               "bgi",
@@ -76,7 +76,7 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2026-08-12T13:01:36Z",
-            "open_issues": 124,
+            "open_issues": 125,
             "owner": "xlang-ai",
             "repo": "Spider2",
             "stars": 868,
@@ -213,7 +213,7 @@
             "open_issues": 5,
             "owner": "wbbeyourself",
             "repo": "MAC-SQL",
-            "stars": 349,
+            "stars": 350,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:16.431Z"
@@ -241,27 +241,6 @@
         },
         {
           "node_type": "item",
-          "title": "CHESS: Contextual Harnessing for Efficient SQL Synthesis.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Contextual Harnessing for Efficient SQL Synthesis",
-            "homepage": null,
-            "id": 817915982,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2025-05-26T21:26:00Z",
-            "open_issues": 14,
-            "owner": "ShayanTalaei",
-            "repo": "CHESS",
-            "stars": 281,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:49:16.431Z"
-        },
-        {
-          "node_type": "item",
           "title": "RESDSQL: Decoupling Schema Linking and Skeleton Parsing for Text-to-SQL.",
           "description": null,
           "children": [],
@@ -276,6 +255,27 @@
             "open_issues": 14,
             "owner": "RUCKBReasoning",
             "repo": "RESDSQL",
+            "stars": 282,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:49:16.431Z"
+        },
+        {
+          "node_type": "item",
+          "title": "CHESS: Contextual Harnessing for Efficient SQL Synthesis.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Contextual Harnessing for Efficient SQL Synthesis",
+            "homepage": null,
+            "id": 817915982,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2025-05-26T21:26:00Z",
+            "open_issues": 14,
+            "owner": "ShayanTalaei",
+            "repo": "CHESS",
             "stars": 281,
             "topics": []
           },
@@ -669,7 +669,7 @@
             "open_issues": 3,
             "owner": "CycloneBoy",
             "repo": "slm_sql",
-            "stars": 36,
+            "stars": 37,
             "topics": [
               "grpo",
               "nl2sql",
@@ -855,60 +855,6 @@
         },
         {
           "node_type": "item",
-          "title": "Grounding Natural Language to SQL Translation with Data-Based Self-Explanations.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "ICDE 2025 Paper, Grounding Natural Language to SQL Translation with Data-Based Self-Explanations",
-            "homepage": "https://arxiv.org/pdf/2411.02948",
-            "id": 738368280,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2025-05-24T01:43:50Z",
-            "open_issues": 0,
-            "owner": "Kaimary",
-            "repo": "CycleSQL",
-            "stars": 17,
-            "topics": [
-              "data-provenance",
-              "feedback-loop",
-              "natural-language-interface",
-              "self-explanations",
-              "text-to-sql"
-            ]
-          },
-          "first_seen": "2026-08-28T20:49:16.431Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Grounding Natural Language to SQL Translation with Data-Based Self-Explanations.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "ICDE 2025 Paper, Grounding Natural Language to SQL Translation with Data-Based Self-Explanations",
-            "homepage": "https://arxiv.org/pdf/2411.02948",
-            "id": 738368280,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2025-05-24T01:43:50Z",
-            "open_issues": 0,
-            "owner": "Kaimary",
-            "repo": "CycleSQL",
-            "stars": 17,
-            "topics": [
-              "data-provenance",
-              "feedback-loop",
-              "natural-language-interface",
-              "self-explanations",
-              "text-to-sql"
-            ]
-          },
-          "first_seen": "2026-08-28T20:49:16.431Z"
-        },
-        {
-          "node_type": "item",
           "title": "Pervasive Annotation Errors Break Text-to-SQL Benchmarks and Leaderboards.",
           "description": null,
           "children": [],
@@ -923,8 +869,62 @@
             "open_issues": 5,
             "owner": "uiuc-kang-lab",
             "repo": "text_to_sql_benchmarks",
-            "stars": 16,
+            "stars": 17,
             "topics": []
+          },
+          "first_seen": "2026-08-28T20:49:16.431Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Grounding Natural Language to SQL Translation with Data-Based Self-Explanations.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ICDE 2025 Paper, Grounding Natural Language to SQL Translation with Data-Based Self-Explanations",
+            "homepage": "https://arxiv.org/pdf/2411.02948",
+            "id": 738368280,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2025-05-24T01:43:50Z",
+            "open_issues": 0,
+            "owner": "Kaimary",
+            "repo": "CycleSQL",
+            "stars": 17,
+            "topics": [
+              "data-provenance",
+              "feedback-loop",
+              "natural-language-interface",
+              "self-explanations",
+              "text-to-sql"
+            ]
+          },
+          "first_seen": "2026-08-28T20:49:16.431Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Grounding Natural Language to SQL Translation with Data-Based Self-Explanations.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ICDE 2025 Paper, Grounding Natural Language to SQL Translation with Data-Based Self-Explanations",
+            "homepage": "https://arxiv.org/pdf/2411.02948",
+            "id": 738368280,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2025-05-24T01:43:50Z",
+            "open_issues": 0,
+            "owner": "Kaimary",
+            "repo": "CycleSQL",
+            "stars": 17,
+            "topics": [
+              "data-provenance",
+              "feedback-loop",
+              "natural-language-interface",
+              "self-explanations",
+              "text-to-sql"
+            ]
           },
           "first_seen": "2026-08-28T20:49:16.431Z"
         },
@@ -1653,7 +1653,7 @@
                 "open_issues": 1149,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 74692,
+                "stars": 74710,
                 "topics": [
                   "agent",
                   "ai",
@@ -1842,11 +1842,11 @@
             "id": 656227652,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T13:01:38Z",
-            "open_issues": 272,
+            "last_commit": "2026-09-11T11:07:49Z",
+            "open_issues": 254,
             "owner": "OtterMind",
             "repo": "Chat2DB",
-            "stars": 28104,
+            "stars": 28111,
             "topics": [
               "ai",
               "clickhouse",
@@ -1885,10 +1885,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-08T09:23:37Z",
-            "open_issues": 435,
+            "open_issues": 436,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 19925,
+            "stars": 19930,
             "topics": [
               "agents",
               "bgi",
@@ -1922,7 +1922,7 @@
             "open_issues": 49,
             "owner": "supabase-community",
             "repo": "database-build",
-            "stars": 2954,
+            "stars": 2953,
             "topics": [
               "ai",
               "browser",
@@ -1938,7 +1938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T13:32:27.001Z",
+    "last_updated": "2026-09-11T13:30:37.133Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a continuously updated handbook for readers to easily track the latest Text-to-SQL techniques in the literature and provide practical guidance for researchers and practitioners. ",
@@ -1950,7 +1950,7 @@
       "open_issues": 0,
       "owner": "HKUSTDial",
       "repo": "NL2SQL_Handbook",
-      "stars": 1587,
+      "stars": 1589,
       "topics": [
         "ai4db",
         "awesome",
