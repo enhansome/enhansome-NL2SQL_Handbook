@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-16T06:51:17Z",
-            "open_issues": 457,
+            "open_issues": 459,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20047,
+            "stars": 20046,
             "topics": [
               "agents",
               "bgi",
@@ -79,7 +79,7 @@
             "open_issues": 137,
             "owner": "xlang-ai",
             "repo": "Spider2",
-            "stars": 874,
+            "stars": 875,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:16.431Z"
@@ -834,6 +834,27 @@
         },
         {
           "node_type": "item",
+          "title": "Pervasive Annotation Errors Break Text-to-SQL Benchmarks and Leaderboards.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[VLDB2026] Pervasive Annotation Errors Break Text-to-SQL Benchmarks and Leaderboards",
+            "homepage": null,
+            "id": 1031354537,
+            "language": "Python",
+            "license": "CC-BY-SA-4.0",
+            "last_commit": "2026-08-27T14:52:58Z",
+            "open_issues": 5,
+            "owner": "uiuc-kang-lab",
+            "repo": "text_to_sql_benchmarks",
+            "stars": 19,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:49:16.431Z"
+        },
+        {
+          "node_type": "item",
           "title": "Understanding the Effects of Noise in Text-to-SQL: An Examination of the BIRD-Bench Benchmark.",
           "description": null,
           "children": [],
@@ -849,27 +870,6 @@
             "owner": "niklaswretblad",
             "repo": "the-effects-of-noise-in-text-to-SQL",
             "stars": 19,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:49:16.431Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Pervasive Annotation Errors Break Text-to-SQL Benchmarks and Leaderboards.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[VLDB2026] Pervasive Annotation Errors Break Text-to-SQL Benchmarks and Leaderboards",
-            "homepage": null,
-            "id": 1031354537,
-            "language": "Python",
-            "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-08-27T14:52:58Z",
-            "open_issues": 5,
-            "owner": "uiuc-kang-lab",
-            "repo": "text_to_sql_benchmarks",
-            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:16.431Z"
@@ -1653,7 +1653,7 @@
                 "open_issues": 1157,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 75003,
+                "stars": 75010,
                 "topics": [
                   "agent",
                   "ai",
@@ -1692,10 +1692,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-14T10:24:06Z",
-                "open_issues": 293,
+                "open_issues": 295,
                 "owner": "Lightning-AI",
                 "repo": "litgpt",
-                "stars": 13682,
+                "stars": 13685,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1842,11 +1842,11 @@
             "id": 656227652,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T04:35:35Z",
-            "open_issues": 234,
+            "last_commit": "2026-09-24T20:29:46Z",
+            "open_issues": 235,
             "owner": "OtterMind",
             "repo": "Chat2DB",
-            "stars": 28198,
+            "stars": 28235,
             "topics": [
               "ai",
               "clickhouse",
@@ -1885,10 +1885,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-16T06:51:17Z",
-            "open_issues": 457,
+            "open_issues": 459,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20047,
+            "stars": 20046,
             "topics": [
               "agents",
               "bgi",
@@ -1922,7 +1922,7 @@
             "open_issues": 50,
             "owner": "supabase-community",
             "repo": "database-build",
-            "stars": 2954,
+            "stars": 2953,
             "topics": [
               "ai",
               "browser",
@@ -1938,7 +1938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T14:10:48.744Z",
+    "last_updated": "2026-09-25T14:34:20.166Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a continuously updated handbook for readers to easily track the latest Text-to-SQL techniques in the literature and provide practical guidance for researchers and practitioners. ",
