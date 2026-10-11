@@ -15,11 +15,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-04T13:43:25Z",
-            "open_issues": 450,
+            "last_commit": "2026-10-11T08:19:47Z",
+            "open_issues": 448,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20112,
+            "stars": 20115,
             "topics": [
               "agents",
               "bgi",
@@ -79,7 +79,7 @@
             "open_issues": 138,
             "owner": "xlang-ai",
             "repo": "Spider2",
-            "stars": 877,
+            "stars": 878,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:16.431Z"
@@ -1653,7 +1653,7 @@
                 "open_issues": 1183,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 75400,
+                "stars": 75409,
                 "topics": [
                   "agent",
                   "ai",
@@ -1692,7 +1692,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-07T17:01:06Z",
-                "open_issues": 311,
+                "open_issues": 312,
                 "owner": "Lightning-AI",
                 "repo": "litgpt",
                 "stars": 13698,
@@ -1846,7 +1846,7 @@
             "open_issues": 238,
             "owner": "OtterMind",
             "repo": "Chat2DB",
-            "stars": 28306,
+            "stars": 28310,
             "topics": [
               "ai",
               "clickhouse",
@@ -1884,11 +1884,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-04T13:43:25Z",
-            "open_issues": 450,
+            "last_commit": "2026-10-11T08:19:47Z",
+            "open_issues": 448,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20112,
+            "stars": 20115,
             "topics": [
               "agents",
               "bgi",
@@ -1922,7 +1922,7 @@
             "open_issues": 50,
             "owner": "supabase-community",
             "repo": "database-build",
-            "stars": 2952,
+            "stars": 2951,
             "topics": [
               "ai",
               "browser",
@@ -1938,7 +1938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T15:18:33.344Z",
+    "last_updated": "2026-10-11T15:36:13.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a continuously updated handbook for readers to easily track the latest Text-to-SQL techniques in the literature and provide practical guidance for researchers and practitioners. ",
@@ -1950,7 +1950,7 @@
       "open_issues": 0,
       "owner": "HKUSTDial",
       "repo": "NL2SQL_Handbook",
-      "stars": 1608,
+      "stars": 1609,
       "topics": [
         "ai4db",
         "awesome",
