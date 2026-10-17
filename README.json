@@ -19,7 +19,7 @@
             "open_issues": 458,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20155,
+            "stars": 20158,
             "topics": [
               "agents",
               "bgi",
@@ -121,7 +121,7 @@
             "open_issues": 11,
             "owner": "BeachWang",
             "repo": "DAIL-SQL",
-            "stars": 644,
+            "stars": 643,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:16.431Z"
@@ -297,7 +297,7 @@
             "open_issues": 6,
             "owner": "RUCKBReasoning",
             "repo": "codes",
-            "stars": 198,
+            "stars": 197,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:16.431Z"
@@ -606,7 +606,7 @@
             "open_issues": 4,
             "owner": "YangHaolin0526",
             "repo": "MARS-SQL",
-            "stars": 49,
+            "stars": 48,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:16.431Z"
@@ -1266,6 +1266,27 @@
         },
         {
           "node_type": "item",
+          "title": "SchemaRAG: A Schema-aware Retrieval-Augmented Generation Framework for Text-to-SQL",
+          "description": "chelsea2002/SchemaRAG",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Code of the SchemaRAG paper",
+            "homepage": null,
+            "id": 1013605060,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-01-14T11:05:30Z",
+            "open_issues": 0,
+            "owner": "chelsea2002",
+            "repo": "SchemaRAG",
+            "stars": 6,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:49:16.431Z"
+        },
+        {
+          "node_type": "item",
           "title": "LEAF-SQL: Level-wise Exploration with Adaptive Fine-graining for Text-to-SQL Skeleton Prediction.",
           "description": "Atlamtiz/LEAF-SQL",
           "children": [],
@@ -1284,27 +1305,6 @@
             "topics": [
               "text-to-sql"
             ]
-          },
-          "first_seen": "2026-08-28T20:49:16.431Z"
-        },
-        {
-          "node_type": "item",
-          "title": "SchemaRAG: A Schema-aware Retrieval-Augmented Generation Framework for Text-to-SQL",
-          "description": "chelsea2002/SchemaRAG",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Code of the SchemaRAG paper",
-            "homepage": null,
-            "id": 1013605060,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-01-14T11:05:30Z",
-            "open_issues": 0,
-            "owner": "chelsea2002",
-            "repo": "SchemaRAG",
-            "stars": 5,
-            "topics": []
           },
           "first_seen": "2026-08-28T20:49:16.431Z"
         },
@@ -1653,7 +1653,7 @@
                 "open_issues": 1193,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 75514,
+                "stars": 75534,
                 "topics": [
                   "agent",
                   "ai",
@@ -1692,10 +1692,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-13T06:03:13Z",
-                "open_issues": 314,
+                "open_issues": 315,
                 "owner": "Lightning-AI",
                 "repo": "litgpt",
-                "stars": 13712,
+                "stars": 13713,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1846,7 +1846,7 @@
             "open_issues": 242,
             "owner": "OtterMind",
             "repo": "Chat2DB",
-            "stars": 28320,
+            "stars": 28323,
             "topics": [
               "ai",
               "clickhouse",
@@ -1888,7 +1888,7 @@
             "open_issues": 458,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20155,
+            "stars": 20158,
             "topics": [
               "agents",
               "bgi",
@@ -1938,7 +1938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T13:55:04.721Z",
+    "last_updated": "2026-10-17T12:55:17.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a continuously updated handbook for readers to easily track the latest Text-to-SQL techniques in the literature and provide practical guidance for researchers and practitioners. ",
