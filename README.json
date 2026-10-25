@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-23T09:05:43Z",
-            "open_issues": 461,
+            "open_issues": 463,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20186,
+            "stars": 20191,
             "topics": [
               "agents",
               "bgi",
@@ -50,7 +50,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-19T07:53:20Z",
-            "open_issues": 84,
+            "open_issues": 85,
             "owner": "AlibabaResearch",
             "repo": "DAMO-ConvAI",
             "stars": 1613,
@@ -79,7 +79,7 @@
             "open_issues": 139,
             "owner": "xlang-ai",
             "repo": "Spider2",
-            "stars": 884,
+            "stars": 885,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:16.431Z"
@@ -297,7 +297,7 @@
             "open_issues": 6,
             "owner": "RUCKBReasoning",
             "repo": "codes",
-            "stars": 197,
+            "stars": 196,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:16.431Z"
@@ -1224,6 +1224,27 @@
         },
         {
           "node_type": "item",
+          "title": "SchemaRAG: A Schema-aware Retrieval-Augmented Generation Framework for Text-to-SQL",
+          "description": "chelsea2002/SchemaRAG",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Code of the SchemaRAG paper",
+            "homepage": null,
+            "id": 1013605060,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-01-14T11:05:30Z",
+            "open_issues": 0,
+            "owner": "chelsea2002",
+            "repo": "SchemaRAG",
+            "stars": 7,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:49:16.431Z"
+        },
+        {
+          "node_type": "item",
           "title": "Generating Succinct Descriptions of Database Schemata for Cost-Efficient Prompting of Large Language Models.",
           "description": "itrummer/schemacompression",
           "children": [],
@@ -1260,27 +1281,6 @@
             "owner": "AdrianBZG",
             "repo": "SQLformer",
             "stars": 7,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:49:16.431Z"
-        },
-        {
-          "node_type": "item",
-          "title": "SchemaRAG: A Schema-aware Retrieval-Augmented Generation Framework for Text-to-SQL",
-          "description": "chelsea2002/SchemaRAG",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Code of the SchemaRAG paper",
-            "homepage": null,
-            "id": 1013605060,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-01-14T11:05:30Z",
-            "open_issues": 0,
-            "owner": "chelsea2002",
-            "repo": "SchemaRAG",
-            "stars": 6,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:16.431Z"
@@ -1650,10 +1650,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-21T07:23:24Z",
-                "open_issues": 1204,
+                "open_issues": 1205,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 75708,
+                "stars": 75718,
                 "topics": [
                   "agent",
                   "ai",
@@ -1692,10 +1692,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-13T06:03:13Z",
-                "open_issues": 317,
+                "open_issues": 318,
                 "owner": "Lightning-AI",
                 "repo": "litgpt",
-                "stars": 13725,
+                "stars": 13728,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1721,7 +1721,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-19T07:53:20Z",
-                "open_issues": 84,
+                "open_issues": 85,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
                 "stars": 1613,
@@ -1754,7 +1754,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-19T07:53:20Z",
-                "open_issues": 84,
+                "open_issues": 85,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
                 "stars": 1613,
@@ -1846,7 +1846,7 @@
             "open_issues": 242,
             "owner": "OtterMind",
             "repo": "Chat2DB",
-            "stars": 28331,
+            "stars": 28333,
             "topics": [
               "ai",
               "clickhouse",
@@ -1885,10 +1885,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-23T09:05:43Z",
-            "open_issues": 461,
+            "open_issues": 463,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20186,
+            "stars": 20191,
             "topics": [
               "agents",
               "bgi",
@@ -1938,7 +1938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T13:16:35.851Z",
+    "last_updated": "2026-10-25T13:40:48.184Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a continuously updated handbook for readers to easily track the latest Text-to-SQL techniques in the literature and provide practical guidance for researchers and practitioners. ",
@@ -1950,7 +1950,7 @@
       "open_issues": 0,
       "owner": "HKUSTDial",
       "repo": "NL2SQL_Handbook",
-      "stars": 1621,
+      "stars": 1623,
       "topics": [
         "ai4db",
         "awesome",
