@@ -102,8 +102,8 @@ utilizing the language model.
 
 ## 📰 Text-to-SQL Paper List
 
-1. DB-GPT: Empowering Database Interactions with Private Large Language Models. <img src="https://img.shields.io/badge/arXiv'2024-purple"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/abs/2312.17449) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/eosphoros-ai/DB-GPT) ⭐ 20,227 | 🐛 491 | 🌐 Python | 📅 2026-10-31
-2. Graphix-T5: Mixing Pre-trained Transformers with Graph-Aware Layers for Text-to-SQL Parsing. <img src="https://img.shields.io/badge/AAAI'2023-cyan"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/abs/2301.07507) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/graphix) ⭐ 1,617 | 🐛 85 | 🌐 Python | 📅 2026-10-19
+1. DB-GPT: Empowering Database Interactions with Private Large Language Models. <img src="https://img.shields.io/badge/arXiv'2024-purple"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/abs/2312.17449) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/eosphoros-ai/DB-GPT) ⭐ 20,232 | 🐛 494 | 🌐 Python | 📅 2026-10-31
+2. Graphix-T5: Mixing Pre-trained Transformers with Graph-Aware Layers for Text-to-SQL Parsing. <img src="https://img.shields.io/badge/AAAI'2023-cyan"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/abs/2301.07507) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/graphix) ⭐ 1,618 | 🐛 85 | 🌐 Python | 📅 2026-10-19
 3. Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows. <img src="https://img.shields.io/badge/ICLR'2025-brightgreen"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/abs/2411.07763) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/xlang-ai/Spider2) ⭐ 886 | 🐛 139 | 🌐 HTML | 📅 2026-08-12
 4. Text2SQL is Not Enough: Unifying AI and Databases with TAG. <img src="https://img.shields.io/badge/arXiv'2025-purple"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/pdf/2408.14717) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/TAG-Research/TAG-Bench) ⭐ 765 | 🐛 4 | 🌐 Python | 📅 2026-07-25
 5. Text-to-SQL Empowered by Large Language Models: A Benchmark Evaluation. <img src="https://img.shields.io/badge/VLDB'2024-blue"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/abs/2308.15363) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/BeachWang/DAIL-SQL) ⭐ 643 | 🐛 11 | 🌐 Python | 📅 2025-03-07
@@ -117,7 +117,7 @@ utilizing the language model.
 13. CodeS: Towards Building Open-source Language Models for Text-to-SQL. <img src="https://img.shields.io/badge/SIGMOD'2024-red"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/abs/2402.16347) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/RUCKBReasoning/codes) ⭐ 196 | 🐛 6 | 🌐 Python | 📅 2024-11-20
 14. OpenSearch-SQL: Enhancing Text-to-SQL with Dynamic Few-shot and Consistency Alignment. <img src="https://img.shields.io/badge/SIGMOD'2025-red"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/pdf/2502.14913) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/OpenSearch-AI/OpenSearch-SQL) ⭐ 168 | 🐛 1 | 🌐 Python | 📅 2025-05-30
 15. C3: Zero-shot Text-to-SQL with ChatGPT <img src="https://img.shields.io/badge/arXiv'2023-purple"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/abs/2307.07306) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/bigbigwatermalon/C3SQL) ⭐ 167 | 🐛 4 | 🌐 Python | 📅 2024-08-06
-16. TrustSQL: Benchmarking Text-to-SQL Reliability with Penalty-Based Scoring. <img src="https://img.shields.io/badge/arXiv'2024-purple"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/pdf/2411.00073) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/Laqcce-cao/RSL-SQL) ⭐ 161 | 🐛 0 | 🌐 Python | 📅 2025-09-17
+16. TrustSQL: Benchmarking Text-to-SQL Reliability with Penalty-Based Scoring. <img src="https://img.shields.io/badge/arXiv'2024-purple"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/pdf/2411.00073) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/Laqcce-cao/RSL-SQL) ⭐ 162 | 🐛 0 | 🌐 Python | 📅 2025-09-17
 17. The Dawn of Natural Language to SQL: Are We Fully Ready? <img src="https://img.shields.io/badge/VLDB'2024-blue"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/abs/2406.01265) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/HKUSTDial/NL2SQL360) ⭐ 141 | 🐛 0 | 🌐 Python | 📅 2025-10-02
 18. The Dawn of Natural Language to SQL: Are We Fully Ready? <img src="https://img.shields.io/badge/VLDB'2024-blue"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/abs/2406.01265) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/HKUSTDial/NL2SQL360) ⭐ 141 | 🐛 0 | 🌐 Python | 📅 2025-10-02
 19. DBCopilot: Scaling Natural Language Querying to Massive Databases.<img src="https://img.shields.io/badge/EDBT/ICDT'2025-orange"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/abs/2312.03463) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/tshu-w/DBCopilot) ⭐ 137 | 🐛 4 | 🌐 Python | 📅 2025-08-25
@@ -155,9 +155,9 @@ utilizing the language model.
 50. PTD-SQL: Partitioning and Targeted Drilling with LLMs in Text-to-SQL. <img src="https://img.shields.io/badge/EMNLP'2024-orange"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/pdf/2409.14082) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/lrlbbzl/PTD-SQL) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2025-03-01
 51. Selective Demonstrations for Cross-domain Text-to-SQL. <img src="https://img.shields.io/badge/EMNLP'2023-orange"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/abs/2310.06302) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/shuaichenchang/ODIS-Text-to-SQL) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2023-12-10
 52. Beyond Static Pipelines: Learning Dynamic Workflows for Text-to-SQL. <img src="https://img.shields.io/badge/arXiv'2026-purple"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/abs/2504.15077) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/Satissss/SquRL) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2026-02-23
-53. Sphinteract: Resolving Ambiguities in NL2SQL Through User Interaction. <img src="https://img.shields.io/badge/VLDB'2025-blue"> [<img src="https://img.shields.io/badge/Paper-grey">](https://www.vldb.org/pvldb/vol18/p1145-zhao.pdf) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/ZhaoFuheng/Sphinteract) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-02
-54. Dial: A Knowledge-Grounded Dialect-Specific NL2SQL System <img src="https://img.shields.io/badge/VLDB'2026-blue"><img src="https://img.shields.io/badge/VLDB'2026-blue"> [<img src="https://img.shields.io/badge/Paper-grey">](https://www.vldb.org/pvldb/vol19/p3718-zhou.pdf) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/OpenDataBox/Dial) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-03-07
-55. SchemaRAG: A Schema-aware Retrieval-Augmented Generation Framework for Text-to-SQL <img src="https://img.shields.io/badge/SIGMOD'2026-red"> [<img src="https://img.shields.io/badge/Paper-grey">](https://dl.acm.org/doi/10.1145/3786696) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/chelsea2002/SchemaRAG) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-01-14
+53. Dial: A Knowledge-Grounded Dialect-Specific NL2SQL System <img src="https://img.shields.io/badge/VLDB'2026-blue"><img src="https://img.shields.io/badge/VLDB'2026-blue"> [<img src="https://img.shields.io/badge/Paper-grey">](https://www.vldb.org/pvldb/vol19/p3718-zhou.pdf) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/OpenDataBox/Dial) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-03-07
+54. SchemaRAG: A Schema-aware Retrieval-Augmented Generation Framework for Text-to-SQL <img src="https://img.shields.io/badge/SIGMOD'2026-red"> [<img src="https://img.shields.io/badge/Paper-grey">](https://dl.acm.org/doi/10.1145/3786696) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/chelsea2002/SchemaRAG) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-01-14
+55. Sphinteract: Resolving Ambiguities in NL2SQL Through User Interaction. <img src="https://img.shields.io/badge/VLDB'2025-blue"> [<img src="https://img.shields.io/badge/Paper-grey">](https://www.vldb.org/pvldb/vol18/p1145-zhao.pdf) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/ZhaoFuheng/Sphinteract) ⭐ 7 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-02
 56. Generating Succinct Descriptions of Database Schemata for Cost-Efficient Prompting of Large Language Models. <img src="https://img.shields.io/badge/VLDB'2024-blue"> [<img src="https://img.shields.io/badge/Paper-grey">](https://dl.acm.org/doi/abs/10.14778/3681954.3682017) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/itrummer/schemacompression) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2024-01-31
 57. SQLformer: Deep Auto-Regressive Query Graph Generation for Text-to-SQL Translation. <img src="https://img.shields.io/badge/arXiv'2023-purple"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/abs/2310.18376) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/AdrianBZG/SQLformer) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-12-14
 58. LEAF-SQL: Level-wise Exploration with Adaptive Fine-graining for Text-to-SQL Skeleton Prediction. <img src="https://img.shields.io/badge/ICDE'2026-green">  [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/Atlamtiz/LEAF-SQL) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-10-15
@@ -293,14 +293,14 @@ You can get more information from our subsection. We introduce representative pa
 
 ### 🛠️ How to build an LLM-based Text-to-SQL model:
 
-* LLaMA-Factory [Repository Link](https://github.com/hiyouga/LLaMA-Factory) ⭐ 75,803 | 🐛 1,210 | 🌐 Python | 📅 2026-10-31
+* LLaMA-Factory [Repository Link](https://github.com/hiyouga/LLaMA-Factory) ⭐ 75,821 | 🐛 1,213 | 🌐 Python | 📅 2026-10-31
   Unified Efficient Fine-Tuning of 100+ LLMs. Integrating various models with scalable training resources, advanced algorithms, practical tricks, and comprehensive experiment monitoring tools, this setup enables efficient and faster inference through optimized APIs and UIs.
 
-* Litgpt [Repository Link](https://github.com/Lightning-AI/litgpt) ⭐ 13,739 | 🐛 323 | 🌐 Python | 📅 2026-10-28
+* Litgpt [Repository Link](https://github.com/Lightning-AI/litgpt) ⭐ 13,740 | 🐛 325 | 🌐 Python | 📅 2026-11-01
 
   This repository offers access to over 20 high-performance large language models (LLMs) with comprehensive guides for pretraining, fine-tuning, and deploying at scale. It is designed to be beginner-friendly with from-scratch implementations and no complex abstractions.
 
-* Fine-tuning and In-Context learning for BIRD-SQL benchmark [Repository Link](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/bird#fine-tuning-ft) ⭐ 1,617 | 🐛 85 | 🌐 Python | 📅 2026-10-19
+* Fine-tuning and In-Context learning for BIRD-SQL benchmark [Repository Link](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/bird#fine-tuning-ft) ⭐ 1,618 | 🐛 85 | 🌐 Python | 📅 2026-10-19
 
   A tutorial for both Fine-tuning and In-Context Learning is provided by the BIRD-SQL benchmark.
 
@@ -308,7 +308,7 @@ You can get more information from our subsection. We introduce representative pa
 
 We collect NL2SQL evaluation metrics for you. You can get more details from this chapter: [Evaluation](chapter/Evaluation.md)
 
-* BIRD-SQL-Official [Repository Link](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/bird#evaluation) ⭐ 1,617 | 🐛 85 | 🌐 Python | 📅 2026-10-19
+* BIRD-SQL-Official [Repository Link](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/bird#evaluation) ⭐ 1,618 | 🐛 85 | 🌐 Python | 📅 2026-10-19
 
   It is now the official tool of [BIRD-SQL](https://bird-bench.github.io/). It is the first tool to propose VES and give an official test suite. <img src="https://img.shields.io/badge/EX-red"> <img src="https://img.shields.io/badge/VES-blue">
 
@@ -331,7 +331,7 @@ You can get some inspiration from the Roadmap and Decision Flow.
 ## 📱 Text-to-SQL Related Applications:
 
 * Chat2DB: AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more. [<img src="https://img.shields.io/badge/Repositor Link-grey">](https://github.com/codePhiliaX/Chat2DB) ⭐ 28,347 | 🐛 244 | 🌐 Java | 📅 2026-10-29 [<img src="https://img.shields.io/badge/Web Link-98f">](https://chat2db-ai.com/zh-CN)
-* DB-GPT: AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents. [<img src="https://img.shields.io/badge/Repositor Link-grey">](https://github.com/eosphoros-ai/DB-GPT) ⭐ 20,227 | 🐛 491 | 🌐 Python | 📅 2026-10-31
+* DB-GPT: AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents. [<img src="https://img.shields.io/badge/Repositor Link-grey">](https://github.com/eosphoros-ai/DB-GPT) ⭐ 20,232 | 🐛 494 | 🌐 Python | 📅 2026-10-31
 * Postgres.new: In-browser Postgres sandbox with AI assistance.  [<img src="https://img.shields.io/badge/Repositor Link-grey">](https://github.com/supabase-community/postgres-new/tree/main) ⭐ 2,949 | 🐛 50 | 🌐 TypeScript | 📅 2026-06-03 [<img src="https://img.shields.io/badge/Web Link-98f">](https://postgres.new/)
 * AI for Database: Agentic AI product for databases — connect any database (PostgreSQL, MySQL, MongoDB, etc.) and talk to it in plain English. Features self-refreshing intelligent dashboards, natural language queries, and automated action workflows that trigger on database changes. [<img src="https://img.shields.io/badge/Web Link-98f">](https://aifordatabase.com)
 * QueryGPT – Natural Language to SQL Using Generative AI. [<img src="https://img.shields.io/badge/Web Link-98f">](https://www.uber.com/en-JP/blog/query-gpt/)
@@ -344,4 +344,4 @@ Please feel free to contact us if we missed any interesting work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

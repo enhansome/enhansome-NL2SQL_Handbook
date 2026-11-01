@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-31T04:01:32Z",
-            "open_issues": 491,
+            "open_issues": 494,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20227,
+            "stars": 20232,
             "topics": [
               "agents",
               "bgi",
@@ -53,7 +53,7 @@
             "open_issues": 85,
             "owner": "AlibabaResearch",
             "repo": "DAMO-ConvAI",
-            "stars": 1617,
+            "stars": 1618,
             "topics": [
               "conversational-ai",
               "deep-learning",
@@ -360,7 +360,7 @@
             "open_issues": 0,
             "owner": "Laqcce-cao",
             "repo": "RSL-SQL",
-            "stars": 161,
+            "stars": 162,
             "topics": [
               "text-to-sql",
               "text2sql"
@@ -1182,27 +1182,6 @@
         },
         {
           "node_type": "item",
-          "title": "Sphinteract: Resolving Ambiguities in NL2SQL Through User Interaction.",
-          "description": "ZhaoFuheng/Sphinteract",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 822295648,
-            "language": "Jupyter Notebook",
-            "license": "MIT",
-            "last_commit": "2024-11-02T00:00:49Z",
-            "open_issues": 0,
-            "owner": "ZhaoFuheng",
-            "repo": "Sphinteract",
-            "stars": 8,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:49:16.431Z"
-        },
-        {
-          "node_type": "item",
           "title": "Dial: A Knowledge-Grounded Dialect-Specific NL2SQL System",
           "description": "OpenDataBox/Dial",
           "children": [],
@@ -1238,6 +1217,27 @@
             "open_issues": 0,
             "owner": "chelsea2002",
             "repo": "SchemaRAG",
+            "stars": 7,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:49:16.431Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Sphinteract: Resolving Ambiguities in NL2SQL Through User Interaction.",
+          "description": "ZhaoFuheng/Sphinteract",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 822295648,
+            "language": "Jupyter Notebook",
+            "license": "MIT",
+            "last_commit": "2024-11-02T00:00:49Z",
+            "open_issues": 0,
+            "owner": "ZhaoFuheng",
+            "repo": "Sphinteract",
             "stars": 7,
             "topics": []
           },
@@ -1650,10 +1650,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-31T10:28:10Z",
-                "open_issues": 1210,
+                "open_issues": 1213,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 75803,
+                "stars": 75821,
                 "topics": [
                   "agent",
                   "ai",
@@ -1691,11 +1691,11 @@
                 "id": 636372163,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T18:02:40Z",
-                "open_issues": 323,
+                "last_commit": "2026-11-01T10:26:54Z",
+                "open_issues": 325,
                 "owner": "Lightning-AI",
                 "repo": "litgpt",
-                "stars": 13739,
+                "stars": 13740,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1724,7 +1724,7 @@
                 "open_issues": 85,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1617,
+                "stars": 1618,
                 "topics": [
                   "conversational-ai",
                   "deep-learning",
@@ -1757,7 +1757,7 @@
                 "open_issues": 85,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1617,
+                "stars": 1618,
                 "topics": [
                   "conversational-ai",
                   "deep-learning",
@@ -1885,10 +1885,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-31T04:01:32Z",
-            "open_issues": 491,
+            "open_issues": 494,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20227,
+            "stars": 20232,
             "topics": [
               "agents",
               "bgi",
@@ -1938,7 +1938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T15:16:36.579Z",
+    "last_updated": "2026-11-01T15:57:55.142Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a continuously updated handbook for readers to easily track the latest Text-to-SQL techniques in the literature and provide practical guidance for researchers and practitioners. ",
