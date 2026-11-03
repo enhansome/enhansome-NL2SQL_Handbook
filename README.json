@@ -15,11 +15,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T08:32:56Z",
-            "open_issues": 498,
+            "last_commit": "2026-11-03T15:44:25Z",
+            "open_issues": 499,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20244,
+            "stars": 20250,
             "topics": [
               "agents",
               "bgi",
@@ -53,7 +53,7 @@
             "open_issues": 85,
             "owner": "AlibabaResearch",
             "repo": "DAMO-ConvAI",
-            "stars": 1619,
+            "stars": 1620,
             "topics": [
               "conversational-ai",
               "deep-learning",
@@ -142,7 +142,7 @@
             "open_issues": 4,
             "owner": "RUCKBReasoning",
             "repo": "OmniSQL",
-            "stars": 456,
+            "stars": 457,
             "topics": [
               "datasets",
               "language-model",
@@ -167,7 +167,7 @@
             "open_issues": 4,
             "owner": "RUCKBReasoning",
             "repo": "OmniSQL",
-            "stars": 456,
+            "stars": 457,
             "topics": [
               "datasets",
               "language-model",
@@ -231,7 +231,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-06T19:33:20Z",
-            "open_issues": 61,
+            "open_issues": 62,
             "owner": "snowflakedb",
             "repo": "ArcticTraining",
             "stars": 293,
@@ -255,7 +255,7 @@
             "open_issues": 14,
             "owner": "ShayanTalaei",
             "repo": "CHESS",
-            "stars": 286,
+            "stars": 287,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:16.431Z"
@@ -1649,11 +1649,11 @@
                 "id": 646410686,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T10:28:10Z",
-                "open_issues": 1217,
+                "last_commit": "2026-11-03T12:54:27Z",
+                "open_issues": 1216,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 75851,
+                "stars": 75868,
                 "topics": [
                   "agent",
                   "ai",
@@ -1692,10 +1692,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-01T10:26:54Z",
-                "open_issues": 327,
+                "open_issues": 330,
                 "owner": "Lightning-AI",
                 "repo": "litgpt",
-                "stars": 13742,
+                "stars": 13744,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1724,7 +1724,7 @@
                 "open_issues": 85,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1619,
+                "stars": 1620,
                 "topics": [
                   "conversational-ai",
                   "deep-learning",
@@ -1757,7 +1757,7 @@
                 "open_issues": 85,
                 "owner": "AlibabaResearch",
                 "repo": "DAMO-ConvAI",
-                "stars": 1619,
+                "stars": 1620,
                 "topics": [
                   "conversational-ai",
                   "deep-learning",
@@ -1846,7 +1846,7 @@
             "open_issues": 246,
             "owner": "OtterMind",
             "repo": "Chat2DB",
-            "stars": 28348,
+            "stars": 28351,
             "topics": [
               "ai",
               "clickhouse",
@@ -1884,11 +1884,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-02T08:32:56Z",
-            "open_issues": 498,
+            "last_commit": "2026-11-03T15:44:25Z",
+            "open_issues": 499,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20244,
+            "stars": 20250,
             "topics": [
               "agents",
               "bgi",
@@ -1938,7 +1938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T19:26:26.126Z",
+    "last_updated": "2026-11-03T16:59:06.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a continuously updated handbook for readers to easily track the latest Text-to-SQL techniques in the literature and provide practical guidance for researchers and practitioners. ",
@@ -1950,7 +1950,7 @@
       "open_issues": 0,
       "owner": "HKUSTDial",
       "repo": "NL2SQL_Handbook",
-      "stars": 1628,
+      "stars": 1630,
       "topics": [
         "ai4db",
         "awesome",
