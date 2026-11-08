@@ -102,7 +102,7 @@ utilizing the language model.
 
 ## 📰 Text-to-SQL Paper List
 
-1. DB-GPT: Empowering Database Interactions with Private Large Language Models. <img src="https://img.shields.io/badge/arXiv'2024-purple"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/abs/2312.17449) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/eosphoros-ai/DB-GPT) ⭐ 20,269 | 🐛 509 | 🌐 Python | 📅 2026-11-04
+1. DB-GPT: Empowering Database Interactions with Private Large Language Models. <img src="https://img.shields.io/badge/arXiv'2024-purple"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/abs/2312.17449) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/eosphoros-ai/DB-GPT) ⭐ 20,273 | 🐛 505 | 🌐 Python | 📅 2026-11-08
 2. Graphix-T5: Mixing Pre-trained Transformers with Graph-Aware Layers for Text-to-SQL Parsing. <img src="https://img.shields.io/badge/AAAI'2023-cyan"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/abs/2301.07507) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/graphix) ⭐ 1,623 | 🐛 85 | 🌐 Python | 📅 2026-10-19
 3. Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows. <img src="https://img.shields.io/badge/ICLR'2025-brightgreen"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/abs/2411.07763) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/xlang-ai/Spider2) ⭐ 886 | 🐛 140 | 🌐 HTML | 📅 2026-08-12
 4. Text2SQL is Not Enough: Unifying AI and Databases with TAG. <img src="https://img.shields.io/badge/arXiv'2025-purple"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/pdf/2408.14717) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/TAG-Research/TAG-Bench) ⭐ 765 | 🐛 4 | 🌐 Python | 📅 2026-07-25
@@ -169,8 +169,8 @@ utilizing the language model.
 63. DIVER: A Robust Text-to-SQL System with Dynamic Interactive Value Linking and Evidence Reasoning <img src="https://img.shields.io/badge/SIGMOD'2026-red"> [<img src="https://img.shields.io/badge/Paper-grey">](https://dl.acm.org/doi/10.1145/3786640) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/thatmee/DIVER) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-05-07
 64. NL2SQLBench: A Modular Benchmarking Framework for LLM-Enabled NL2SQL Solutions. <img src="https://img.shields.io/badge/VLDB'2026-blue"> [<img src="https://img.shields.io/badge/Paper-grey">](https://www.vldb.org/pvldb/vol19/p1001-hou.pdf)[<img src="https://img.shields.io/badge/Code-grey">](https://github.com/neurdb/NL2SQLBench) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2025-11-13
 65. OpenSQL: Data-Efficient Text-to-SQL for Open-Source LLMs via Synthesized Intermediate Supervision. <img src="https://img.shields.io/badge/VLDB'2026-blue"> [<img src="https://img.shields.io/badge/Paper-grey">](https://www.vldb.org/pvldb/vol19/p1628-li.pdf) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/TsinghuaDatabaseGroup/OpenSQL) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-05-13
-66. SQL-Exchange: Transforming SQL Queries Across Domains <img src="https://img.shields.io/badge/VLDB'2026-blue"> [<img src="https://img.shields.io/badge/Paper-grey">](https://www.vldb.org/pvldb/vol19/p1291-daviran.pdf) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/mmdrez4/SQL-Exchange) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2025-12-08
-67. Bridging NL2SQL for CAN Signal Analytics at NIO: From Externalized Schemas to CTE Pipelines.<img src="https://img.shields.io/badge/VLDB'2026-blue"> [<img src="https://img.shields.io/badge/Paper-grey">](https://www.vldb.org/pvldb/vol19/p4330-zhou.pdf) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/OpenDataBox/NIO-Weaver) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-03-04
+66. Bridging NL2SQL for CAN Signal Analytics at NIO: From Externalized Schemas to CTE Pipelines.<img src="https://img.shields.io/badge/VLDB'2026-blue"> [<img src="https://img.shields.io/badge/Paper-grey">](https://www.vldb.org/pvldb/vol19/p4330-zhou.pdf) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/OpenDataBox/NIO-Weaver) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-03-04
+67. SQL-Exchange: Transforming SQL Queries Across Domains <img src="https://img.shields.io/badge/VLDB'2026-blue"> [<img src="https://img.shields.io/badge/Paper-grey">](https://www.vldb.org/pvldb/vol19/p1291-daviran.pdf) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/mmdrez4/SQL-Exchange) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2025-12-08
 68. I Need Help! Evaluating LLM’s Ability to Ask for Users’ Support: A Case Study on Text-to-SQL Generation. <img src="https://img.shields.io/badge/EMNLP'2024-orange"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/pdf/2407.14767) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/appier-research/i-need-help) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2024-09-30
 69. Comparison and Analysis of Value Linking in Text-to-SQL systems: \[Experiments & Analysis] <img src="https://img.shields.io/badge/SIGMOD'2026-red"> [<img src="https://img.shields.io/badge/Paper-grey">](https://dl.acm.org/doi/10.1145/3802029) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/athenarc/experimental-analysis-of-value-linking) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-02-10
 70. OptiSQL: Executable SQL Generation from Optical Tokens. <img src="https://img.shields.io/badge/arXiv'2026-purple"> [<img src="https://img.shields.io/badge/Paper-grey">](https://arxiv.org/pdf/2601.13695) [<img src="https://img.shields.io/badge/Code-grey">](https://github.com/johnnyZeppelin/OptiSQL) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-02-11
@@ -293,10 +293,10 @@ You can get more information from our subsection. We introduce representative pa
 
 ### 🛠️ How to build an LLM-based Text-to-SQL model:
 
-* LLaMA-Factory [Repository Link](https://github.com/hiyouga/LLaMA-Factory) ⭐ 75,924 | 🐛 1,218 | 🌐 Python | 📅 2026-11-06
+* LLaMA-Factory [Repository Link](https://github.com/hiyouga/LLaMA-Factory) ⭐ 75,942 | 🐛 1,221 | 🌐 Python | 📅 2026-11-06
   Unified Efficient Fine-Tuning of 100+ LLMs. Integrating various models with scalable training resources, advanced algorithms, practical tricks, and comprehensive experiment monitoring tools, this setup enables efficient and faster inference through optimized APIs and UIs.
 
-* Litgpt [Repository Link](https://github.com/Lightning-AI/litgpt) ⭐ 13,747 | 🐛 333 | 🌐 Python | 📅 2026-11-01
+* Litgpt [Repository Link](https://github.com/Lightning-AI/litgpt) ⭐ 13,748 | 🐛 333 | 🌐 Python | 📅 2026-11-01
 
   This repository offers access to over 20 high-performance large language models (LLMs) with comprehensive guides for pretraining, fine-tuning, and deploying at scale. It is designed to be beginner-friendly with from-scratch implementations and no complex abstractions.
 
@@ -331,7 +331,7 @@ You can get some inspiration from the Roadmap and Decision Flow.
 ## 📱 Text-to-SQL Related Applications:
 
 * Chat2DB: AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more. [<img src="https://img.shields.io/badge/Repositor Link-grey">](https://github.com/codePhiliaX/Chat2DB) ⭐ 28,353 | 🐛 246 | 🌐 Java | 📅 2026-11-02 [<img src="https://img.shields.io/badge/Web Link-98f">](https://chat2db-ai.com/zh-CN)
-* DB-GPT: AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents. [<img src="https://img.shields.io/badge/Repositor Link-grey">](https://github.com/eosphoros-ai/DB-GPT) ⭐ 20,269 | 🐛 509 | 🌐 Python | 📅 2026-11-04
+* DB-GPT: AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents. [<img src="https://img.shields.io/badge/Repositor Link-grey">](https://github.com/eosphoros-ai/DB-GPT) ⭐ 20,273 | 🐛 505 | 🌐 Python | 📅 2026-11-08
 * Postgres.new: In-browser Postgres sandbox with AI assistance.  [<img src="https://img.shields.io/badge/Repositor Link-grey">](https://github.com/supabase-community/postgres-new/tree/main) ⭐ 2,950 | 🐛 50 | 🌐 TypeScript | 📅 2026-06-03 [<img src="https://img.shields.io/badge/Web Link-98f">](https://postgres.new/)
 * AI for Database: Agentic AI product for databases — connect any database (PostgreSQL, MySQL, MongoDB, etc.) and talk to it in plain English. Features self-refreshing intelligent dashboards, natural language queries, and automated action workflows that trigger on database changes. [<img src="https://img.shields.io/badge/Web Link-98f">](https://aifordatabase.com)
 * QueryGPT – Natural Language to SQL Using Generative AI. [<img src="https://img.shields.io/badge/Web Link-98f">](https://www.uber.com/en-JP/blog/query-gpt/)
@@ -344,4 +344,4 @@ Please feel free to contact us if we missed any interesting work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
