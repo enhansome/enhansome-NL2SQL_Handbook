@@ -15,11 +15,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-11T05:01:58Z",
-            "open_issues": 517,
+            "last_commit": "2026-11-13T15:55:00Z",
+            "open_issues": 526,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20290,
+            "stars": 20293,
             "topics": [
               "agents",
               "bgi",
@@ -142,7 +142,7 @@
             "open_issues": 4,
             "owner": "RUCKBReasoning",
             "repo": "OmniSQL",
-            "stars": 457,
+            "stars": 456,
             "topics": [
               "datasets",
               "language-model",
@@ -167,7 +167,7 @@
             "open_issues": 4,
             "owner": "RUCKBReasoning",
             "repo": "OmniSQL",
-            "stars": 457,
+            "stars": 456,
             "topics": [
               "datasets",
               "language-model",
@@ -360,7 +360,7 @@
             "open_issues": 0,
             "owner": "Laqcce-cao",
             "repo": "RSL-SQL",
-            "stars": 162,
+            "stars": 161,
             "topics": [
               "text-to-sql",
               "text2sql"
@@ -1649,11 +1649,11 @@
                 "id": 646410686,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T12:44:33Z",
-                "open_issues": 1237,
+                "last_commit": "2026-11-13T13:16:48Z",
+                "open_issues": 1245,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 76016,
+                "stars": 76028,
                 "topics": [
                   "agent",
                   "ai",
@@ -1692,7 +1692,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-10T20:07:37Z",
-                "open_issues": 342,
+                "open_issues": 357,
                 "owner": "Lightning-AI",
                 "repo": "litgpt",
                 "stars": 13748,
@@ -1846,7 +1846,7 @@
             "open_issues": 163,
             "owner": "OtterMind",
             "repo": "Chat2DB",
-            "stars": 28364,
+            "stars": 28363,
             "topics": [
               "ai",
               "clickhouse",
@@ -1884,11 +1884,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-11T05:01:58Z",
-            "open_issues": 517,
+            "last_commit": "2026-11-13T15:55:00Z",
+            "open_issues": 526,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20290,
+            "stars": 20293,
             "topics": [
               "agents",
               "bgi",
@@ -1938,7 +1938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T17:31:43.337Z",
+    "last_updated": "2026-11-13T17:09:14.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a continuously updated handbook for readers to easily track the latest Text-to-SQL techniques in the literature and provide practical guidance for researchers and practitioners. ",
