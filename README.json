@@ -15,11 +15,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-18T05:50:50Z",
-            "open_issues": 523,
+            "last_commit": "2026-11-19T14:49:22Z",
+            "open_issues": 525,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20308,
+            "stars": 20315,
             "topics": [
               "agents",
               "bgi",
@@ -79,7 +79,7 @@
             "open_issues": 140,
             "owner": "xlang-ai",
             "repo": "Spider2",
-            "stars": 889,
+            "stars": 890,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:16.431Z"
@@ -1649,11 +1649,11 @@
                 "id": 646410686,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T04:25:42Z",
-                "open_issues": 1254,
+                "last_commit": "2026-11-19T16:17:35Z",
+                "open_issues": 1253,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 76105,
+                "stars": 76140,
                 "topics": [
                   "agent",
                   "ai",
@@ -1846,7 +1846,7 @@
             "open_issues": 165,
             "owner": "OtterMind",
             "repo": "Chat2DB",
-            "stars": 28367,
+            "stars": 28368,
             "topics": [
               "ai",
               "clickhouse",
@@ -1884,11 +1884,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-18T05:50:50Z",
-            "open_issues": 523,
+            "last_commit": "2026-11-19T14:49:22Z",
+            "open_issues": 525,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20308,
+            "stars": 20315,
             "topics": [
               "agents",
               "bgi",
@@ -1938,7 +1938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T17:58:32.177Z",
+    "last_updated": "2026-11-19T18:12:01.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a continuously updated handbook for readers to easily track the latest Text-to-SQL techniques in the literature and provide practical guidance for researchers and practitioners. ",
