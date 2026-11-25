@@ -15,11 +15,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-24T13:22:39Z",
-            "open_issues": 535,
+            "last_commit": "2026-11-25T02:05:29Z",
+            "open_issues": 537,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20328,
+            "stars": 20335,
             "topics": [
               "agents",
               "bgi",
@@ -79,7 +79,7 @@
             "open_issues": 140,
             "owner": "xlang-ai",
             "repo": "Spider2",
-            "stars": 892,
+            "stars": 893,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:16.431Z"
@@ -142,7 +142,7 @@
             "open_issues": 4,
             "owner": "RUCKBReasoning",
             "repo": "OmniSQL",
-            "stars": 455,
+            "stars": 456,
             "topics": [
               "datasets",
               "language-model",
@@ -167,7 +167,7 @@
             "open_issues": 4,
             "owner": "RUCKBReasoning",
             "repo": "OmniSQL",
-            "stars": 455,
+            "stars": 456,
             "topics": [
               "datasets",
               "language-model",
@@ -1007,7 +1007,7 @@
             "open_issues": 1,
             "owner": "X-LANCE",
             "repo": "text2sql-multiturn-GPT",
-            "stars": 13,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-08-28T20:49:16.431Z"
@@ -1649,11 +1649,11 @@
                 "id": 646410686,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T18:00:08Z",
-                "open_issues": 1254,
+                "last_commit": "2026-11-25T04:38:40Z",
+                "open_issues": 1264,
                 "owner": "hiyouga",
                 "repo": "LlamaFactory",
-                "stars": 76257,
+                "stars": 76280,
                 "topics": [
                   "agent",
                   "ai",
@@ -1843,10 +1843,10 @@
             "language": "Java",
             "license": "NOASSERTION",
             "last_commit": "2026-11-11T06:35:57Z",
-            "open_issues": 169,
+            "open_issues": 171,
             "owner": "OtterMind",
             "repo": "Chat2DB",
-            "stars": 28371,
+            "stars": 28372,
             "topics": [
               "ai",
               "clickhouse",
@@ -1884,11 +1884,11 @@
             "id": 627480054,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-24T13:22:39Z",
-            "open_issues": 535,
+            "last_commit": "2026-11-25T02:05:29Z",
+            "open_issues": 537,
             "owner": "eosphoros-ai",
             "repo": "DB-GPT",
-            "stars": 20328,
+            "stars": 20335,
             "topics": [
               "agents",
               "bgi",
@@ -1938,7 +1938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T20:06:08.195Z",
+    "last_updated": "2026-11-25T19:09:50.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a continuously updated handbook for readers to easily track the latest Text-to-SQL techniques in the literature and provide practical guidance for researchers and practitioners. ",
@@ -1950,7 +1950,7 @@
       "open_issues": 0,
       "owner": "HKUSTDial",
       "repo": "NL2SQL_Handbook",
-      "stars": 1639,
+      "stars": 1640,
       "topics": [
         "ai4db",
         "awesome",
